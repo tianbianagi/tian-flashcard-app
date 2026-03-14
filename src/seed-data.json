@@ -1,0 +1,7401 @@
+[
+  {
+    "front": "with (together)",
+    "back": "I was with Jane yesterday when the accident happened.\nI like to eat my burger with mustard.\n(romantic relationship) Chris has been with Jane since that party last year.\nHow long have you been with your boyfriend?\nAre you with Sammy? I’m trying to find her.",
+    "tags": [
+      "By With"
+    ]
+  },
+  {
+    "front": "with (having something)",
+    "back": "I’ve never met someone with purple hair before.\nI’m looking for a new house with a pool.\nHe quits because he needs a job with a better salary.",
+    "tags": [
+      "By With"
+    ]
+  },
+  {
+    "front": "with (to use something)",
+    "back": "She decorated the table with the candles that he gave her.\nHe always does his homework with a pencil so he can erase his mistakes.\nDid you know you can clean your kitchen with vinegar?\nThe file was filmed with an underwater camera.",
+    "tags": [
+      "By With"
+    ]
+  },
+  {
+    "front": "basil",
+    "back": "I made a pasta sauce with the basil that I grew in my garden.  (to use something)\nI like pasta sauce with basil. (having something)\nWould you like the pasta with the basil sauce? (together)",
+    "tags": [
+      "By With"
+    ]
+  },
+  {
+    "front": "with (to show the feeling behind an action)",
+    "back": "I’m writing this message to you with great sadness.\ndo it with confidence\nShe sang with such emotion that I started to cry.\nHe opened the door with fear.",
+    "tags": [
+      "By With"
+    ]
+  },
+  {
+    "front": "with (agreement)",
+    "back": "I’m with Matt.  <> I’m for free healthcare.\nI stand with Ukraine.",
+    "tags": [
+      "By With"
+    ]
+  },
+  {
+    "front": "by (proximity)",
+    "back": "I parked by the supermarket.\nShannon has an alarm clock by her bed to help her wake up in time.\nI want to live by the beach one day.",
+    "tags": [
+      "By With"
+    ]
+  },
+  {
+    "front": "Movement verb + By —> movement PAST a point",
+    "back": "I walked by your office this afternoon, but I couldn’t see you.",
+    "tags": [
+      "By With"
+    ]
+  },
+  {
+    "front": "by + time (no later than)",
+    "back": "I have to leave for work by 7:30am.\nThe students have to hand in their assignments by Friday at 4pm.\nMake sure you’re home by midnight.",
+    "tags": [
+      "By With"
+    ]
+  },
+  {
+    "front": "by (in passive voice)",
+    "back": "I’d like my hair to be cut by Maria, please.\nThe children were frightened by the storm.",
+    "tags": [
+      "By With"
+    ]
+  },
+  {
+    "front": "by (how the method/how something is done.)",
+    "back": "The traffic was so bad I had to go to work by bike.\nI’m losing weight by eating less and exercising more.\nImprove your strength and balance by practicing yoga.",
+    "tags": [
+      "By With"
+    ]
+  },
+  {
+    "front": "by (with a reflexive pronoun)",
+    "back": "You can go home. I’m happy to clean up by myself.\nMy nephew was ecstatic when he learned that he could ride his bike by himself.",
+    "tags": [
+      "By With"
+    ]
+  },
+  {
+    "front": "Just for perspective",
+    "back": "just for perspective, India has 1.4 billion people",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "Calibrate",
+    "back": "I know how to calibrate my concern appropriately",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "Rigorous",
+    "back": "you’re really being rigorous about trying to avoid your exposures,",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "Caveat",
+    "back": "He caveated his offer with a condition about the property inspection. Verb.  The researchers caveated their findings with a statement about the limitations of their study.\nWe should probably caveat this all by saying as of today, we haven't tried it yet.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "A caveat",
+    "back": "His investment advice comes with a caveat: that the stock market is impossible to predict with absolute accuracy.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "Cave in",
+    "back": "he has caved in",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "point of view",
+    "back": "If we destroy that shared reality then there is no basis for a rational conversation. Then it all becomes points of view.\n-\n-",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "than anything else",
+    "back": "His post feel more like an expiration date than anything else.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "impulsive or unpredictable",
+    "back": "capricious",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "美食家",
+    "back": "gourmet",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "公开支持者",
+    "back": "I am a proponent of the use of ev cars.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "a person that you trust and share your feelings and secrets with",
+    "back": "confidant",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "spiral",
+    "back": "The situation is spiraling out of control.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "avoid, go around an obstacle usually in a clever way",
+    "back": "circumvent something.\nSkilled users can  *circumvent * these safeguards",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "Level-headed",
+    "back": "he is levelheaded. calm and sensible.\n-",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "Blunder",
+    "back": "sorry for the blunder. I made a blunder by getting his name wrong.\n-\n-\n-",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "失察",
+    "back": "lack of oversight\nThe report blamed the organization board for lack of oversight.\nLack of oversight has fostered recklessness and abuse.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "efficacious",
+    "back": "effective. efficacy == effectiveness",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "想点子",
+    "back": "the process of ideation\nfloor-to-ceiling whiteboards in some places for spontaneous ideation\n-",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "lined up",
+    "back": "I don't have anything immediate lined up.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "sideline",
+    "back": "The injury has sidelined him from the workforce.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "sticker shock",
+    "back": "We had sticker shock.\nCalifornia fast-food chains are now serving sticker shock.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "pushover",
+    "back": "I'd rather have a pushover than a dictator.\nThis is going to be a pushover.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "去搞点吃的",
+    "back": "let's go grab a bite to eat.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "选择相信",
+    "back": "give sb the benefit of the doubt.\nShe said she was late because her flight was canceled, and we gave her the benefit of the doubt.\nLove is about assuming positive intent and giving your partner the benefit of the doubt.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "有点冷",
+    "back": "It's a bit chilly outside.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "从长计议",
+    "back": "I'm playing the long game.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "就是一种表达方式",
+    "back": "It's a figure of speech.\n-\n-",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "deliberately",
+    "back": "the question was deliberately ambiguous.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "iron out",
+    "back": "after each system updates, we need to spend quite a bit time to iron out the kinks.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "by midyear",
+    "back": "by the end of the year, by eod today",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "临时起意",
+    "back": "we booked a trip on a whim.\nShe missed the freedom of eating out on a whim.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "减轻罪恶感",
+    "back": "This helps ease my guilt over overspending.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "母校",
+    "back": "alma mater",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "回忆之旅",
+    "back": "this was a trip down memory lane.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "被现实打脸",
+    "back": "It doesn't square with the reality.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "我就不耽误你了",
+    "back": "I will get out of your way.\n-",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "hit the ground running",
+    "back": "She studied the reports over the weekend so she could hit the ground running when the meeting began.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "hot take",
+    "back": "He wants to give us his hot take on how feminism has gone too far.\n-",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "glance",
+    "back": "at a glance. at first glance",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "glimpse",
+    "back": "she caught a glimpse of the ocean.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "a topic has no pratical value, a matter is hypothetical",
+    "back": "moot point.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "bogus",
+    "back": "The evidence was completely bogus.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "courtesy",
+    "back": "Please give me the courtesy of believing this is right for me.\n-",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "used to say that something has made a bad or difficult situation worse",
+    "back": "to make matters worse.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "on top of that",
+    "back": "We missed our bus, and on top of that the next one we took had mechanical problems.\n-",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "not going away",
+    "back": "It's clear that bundles are here to stay.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "stage",
+    "back": "The discussions are in their early stages.\nThe effort is at an early stage.\nin the initial stages.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "alive",
+    "back": "what a time to be alive!",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "arriving or happening after a lot of time has passed",
+    "back": "My promotion is a long time coming.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "churn",
+    "back": "Both Apple TV+ and Paramount+ had a churn rate of more than 7% in October, a higher rate than 5.7% average for the streaming industry as a whole.\nYou want to churn through more clients, and make more money.\nArtists continued to churn out uninteresting works.  Churn through the never ending todo list",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "WIP",
+    "back": "The process of integration is clearly a work in progress.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "to try to persuade someone to do something by reminding them that it is a good or fair thing to do",
+    "back": "appeal to his better nature.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "a 180 degree turn, a reversal of direction, a reversal of attitude/behavior/point of view",
+    "back": "about-face.\nThe move would mark a swift about-face for a program .",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "fueled, spree, trend reversing, inch down",
+    "back": "Pandemic-fueled growth combined with low-interest rates at the time sent companies on a hiring and expansion spree. Since then, borrowing money has become more expensive. He doesn't see the trend reversing even if interest rates inch down because investor are demanding more discipline.\n-\n-",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "Volunteer",
+    "back": "sign up to volunteer during the event.\nAny one to volunteer to host the reception?\nHe volunteered his service.\nThere are many places to volunteer in college station.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "horrendous",
+    "back": "extremely bad or unpleasant\nHis audition was horrendous.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "sweep things under the rug",
+    "back": "The committee is being accused of sweeping financial problems under the rug to avoid embarrassment.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "开启这段旅程",
+    "back": "embark this journey",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "指引我们前行",
+    "back": "guide us along the way.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "hindrance",
+    "back": "Information seeking challenges are the top two hindrances to engineering productivity along the tech debt.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "hinder",
+    "back": "They cleared the obstacles hindering the access of sufficient humanitarian aids.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "inch (vi) closer",
+    "back": "We were inching closer to a deal.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "hand it off to",
+    "back": "With that, I will hand it off to David to talk about the project.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "试水",
+    "back": "test the waters. If you test the water or test the waters, you try to find out what reaction an action or idea will get before you do it or tell it to people.\nYou should be cautious when getting involved and test the water before committing yourself.\n-\n-",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "闪烁其词",
+    "back": "evasive. She was evasive about her work experience.\nThey could see Sam's evasiveness.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "causing one to feel unsettled, unsettling",
+    "back": "disconcerting.\nShe had the disconcerting habit of saying exactly what she thought",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "教养/抚养",
+    "back": "upbringing\nHis Quaker upbringing influenced his character.\nHe had a tough/harsh upbringing.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "outshine",
+    "back": "outshone\nTheir marketing prowess significantly outshone their actual management abilities.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "as opposed to",
+    "back": "We ate in the restaurant, as opposed to the bisto.\nin contrast to, rather than, instead of.\nThis approach is theoretical as opposed to practical.\nThey use fresh fish, as opposed to fish that has been frozen.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "contrary",
+    "back": "on the contrary.\n\"I thought you said the film was exciting?\" \"On the contrary, I nearly fell asleep half way through it!\"\nThey do not reject modernity completely; on the contrary, they embrace the modern world.\nQuite the contrary.\n'Are there any signs that he may quit soon?'—'Quite the contrary.'",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "very briefly, giving only the main points",
+    "back": "in a nutshell",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "in the making",
+    "back": "We have another lawsuit that's been years in the making that involves 20 markets around the country.\nWe were watching history in the making",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "horrifying or frightening.",
+    "back": "chilling\nThe statement by Israel's army was chilling (to the bone).",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "gravitate toward",
+    "back": "Those trends have prompted more consumers to gravitate toward cheaper options.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "恶性循环",
+    "back": "It's vicious cycle.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "下降通道",
+    "back": "downward spiral.\nThe company's financial troubles led to a downward spiral of layoffs, budget cuts, and decreasing morale among the employees.\nAfter the breakup, Mark found himself caught in a downward spiral of depression and self-doubt, struggling to find his way back to a happier, healthier life.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "逃亡者",
+    "back": "fugitive",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "报应，惩罚",
+    "back": "retribution.\nPeople feel they are able to speak up, without fear of retribution.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "冷处理",
+    "back": "keep the thing chill",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "be in the mix",
+    "back": "Sarah has been in the mix from the very start, so she knows the details of the project better than anyone.\nI can't reveal our judges' process, but I can tell you that your novel is still in the mix for the grand prize.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "大反转",
+    "back": "a big plot twist",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "这条路走下去",
+    "back": "go down this road.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "persevere",
+    "back": "fayin. How did you persevere (with..)?",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "marginal",
+    "back": "it seems likely to make only a marginal difference.\nShe was re-elected by a razor-thin margin of 53 votes.\nIf shoppers continue buying goods at a similar rate, razor-thin margins in the food industry will result in price rises.\nThe low marginal cost of software allows companies to scale their businesses quickly and efficiently.\nThe cloud computing industry has benefited from the low marginal cost of storage and computing power.\nThe low marginal cost of online education is making it more accessible to people around the world.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "规模效应",
+    "back": "Economies of Scale\nThe rise of Amazon has been driven in part by its economies of scale, as it can purchase goods in bulk and negotiate lower prices from suppliers.\nThe company's large economies of scale allow it to produce goods at a lower cost than its competitors.\nThe development of new technologies can lead to economies of scale, as companies can invest in new technologies to produce goods and services more efficiently.\nEconomies of scale are one of the reasons why large companies are often more successful than small companies.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "制衡",
+    "back": "checks and balance. The system of checks and balance in our government ensures that no single branch has too much power.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "implication",
+    "back": "I will cover both what is going on right now and the implications of it.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "恶劣天气",
+    "back": "inclement weather",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "in its own right",
+    "back": "because of its own special qualities and not because of a connection with something else\nThough it's based on a best-selling novel, the movie is great in its own right.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "I'm not in the position to say",
+    "back": "Who am I to say",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "doomsday",
+    "back": "The doomsday scenario.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "surreal",
+    "back": "It's surreal to see them work together on charts through a massive, ultracrisp glass touch screen..",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "Captivate",
+    "back": "\"he was captivated by her beauty\". The scenery captivated our attention.  迷\ncaptivating: Books with captivating stories and bright, uncomplicated artwork will enchant the very young without being too demanding.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "无论好坏",
+    "back": "We've made our decision and now we have to stick to it for better or worse",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "come back to bite me",
+    "back": "If we don't solve this problem, it will come back to bite us.\n-",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "迥然不同",
+    "back": "disparate\nThese are Strikes across disparate industries.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "饭店客满",
+    "back": "The restaurant have been swapped with customers.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "好情绪",
+    "back": "Make sure everyone is in good spirits.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "in close association",
+    "back": "it's hard to pick just one because everything goes hand in hand.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "hiring spree",
+    "back": "Coming out of the pandemic last year, many consulting firms went on a hiring spree in the hope of profiting from the economic rebound.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "员工流失率",
+    "back": "attrition rate.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "relentless",
+    "back": "1) continuing in a severe or extreme way 2) continuing in a determined way without any interruption.\nInsane hours, too much travel, relentless pressure on junior staff members is taking a toll.\nThe relentless heat of the summer made it difficult to go outside without feeling wilted.\nWe went to Canada to escape the relentless heat in Texas.\n2- The relentless pursuit of wealth and power.\nI was relentless in pursuit of wealth and power.\nHe is campaigning relentlessly, trying to build support.\n-\n-\n-\n-",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "nonnegotiable",
+    "back": "Here is the job. Take it or leave it.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "upper hand",
+    "back": "In the tight labor market, employees have had the upper hand.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "table turns",
+    "back": "Quite cutting is a suggestion that the tables are starting to turn that employers are starting to have that upper hand now.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "coming down the pipe",
+    "back": "used to indicate something is going to happen\nCompanies are fearful of what is coming down the pipe.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "headwinds",
+    "back": "They will run into economic headwinds.\nThe supposed masters of change management are now facing some unanticipated headwinds.\nCorporations grapple with foreign exchange headwinds.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "down the line",
+    "back": "in the future.\nThey are going to do layoffs down the line.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "to help produce or influence a result",
+    "back": "come into play\nThere're all sorts of other financial issues that come into play that will cost you money.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "搞好了",
+    "back": "Quite cutting done right is a great way for employers to have the employee engagement.\nIf we've done this right, ...",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "搞砸了",
+    "back": "If the quite cutting done the wrong way, it impacts the mental health.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "无法胜任，搞不定",
+    "back": "At depths and temperatures like these, conventional drilling equipment just won't cut it.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "截断线以外",
+    "back": "He didn't make the cut.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "voila",
+    "back": "you can drill down, create space in the rock, add water to that space, and voila, you've engineered more or less the same conditions.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "take a/its toll",
+    "back": "to cause harm or damage\nThe reorg process took a toll.\nThis would take a toll on its bottom line.\nI cannot do it because of the emotional toll.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "发言权",
+    "back": "Just giving employees some say in the process, I think would make them feel more comfortable about the whole thing.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "down",
+    "back": "I'm down for whatever activities related to sports.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "存在性危机",
+    "back": "For someone who had built his entire idea of himself around his career, this thought sent Dan into an existential crisis.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "据我所知",
+    "back": "as far as I know, from what I can tell.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "Pretty much so",
+    "back": "pretty much. basically.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "mouth",
+    "back": "put the money where your mouth is.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "skin",
+    "back": "have skin in the game",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "谷底",
+    "back": "PC shipments hit rock bottom.\nAfter years of heavy drug use, she has finally  *reached rock bottom* .\nThis is the rock bottom price.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "Splurge",
+    "back": "While that might make some people feel uneasy about their finances, others have no problem splurging on themselves.\nThey splurged on a last-minute trip to Hawaii.\nAre people concerned that they might not be able to splurge like this forever?",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "outstrip",
+    "back": "supply far outstripped demand\nAmericans spent 5.8% more in August than a year earlier, which well outstrips inflation.\nThe processing capabilities of China outstrip those of the rest of the world combined.\nCongress allows roughly 85k new H-1B visas per year, with applications often far outstripping that number.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "all but",
+    "back": "very nearly. Today, the trend is all but played out.\nthe subject was all but forgotten",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "claw back",
+    "back": "charitable contributions that could be clawed back.\nClawbacks can go back years — and take years to hash out",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "pull back",
+    "back": "The army pulled back.\na massive pullback in consumer spending\nyou were going to see a big pullback in lending\nWe don't see a big pullback in terms of growth.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "hash out",
+    "back": "Their lawyers hashed out a resolution. (find (a solution) by talking)\nWe were finally able to hash out our differences. (solve (a problem) by talking)\nWe still need to hash out the details of the contract.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "hold up",
+    "back": "1) to stay strong or well. The real estate market held up  despite a lack of consumer confidence. 2) to be true. The evidence may not hold up in court.\nWe'll focus in on Delta, which this week is expected to tell us how travel is holding up.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "夸大",
+    "back": "I don't want to overstate it.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "存在性问题",
+    "back": "there are some really serious existential problems for any bank smaller than those banks",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "to get a sense of",
+    "back": "To get a sense of what this means for Delta, the travel sector, and the economy more broadly, I'm joined by Sheila.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "差异化因素",
+    "back": "Always being on time and just reliable is a differentiator for me more than getting into a Sky Club.\n-",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "glimmer",
+    "back": "a glimmer of hope.\nNew medication serves as a glimmer of hope for those who have suffered from the disease for a long time.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "struck",
+    "back": "What struck me the most\nto emphasize the most impressive aspect of a particular situation or experience.\nWhat struck me the most during my visit to the Grand Canyon was the immense scale of the landscape.\nWhat struck me most about the speech was its sincerity.\nI'm still struck by how many people don't know this trick.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "weigh in",
+    "back": "to give one's opinion or analysis of something during a discussion.\nPlease weigh in here. weigh in with your opinions.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "weigh on",
+    "back": "his unhappiness would weigh on my mind so much\nThe financial difficulties that the family was facing began to weigh on John's mind, causing him sleepless nights and constant worry",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "Weigh down",
+    "back": "People don’t realize how much clutter is weighing them down.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "context",
+    "back": "\"The value of the currency has decreased significantly over the past year. To put this in context, the economic conditions of the country have been in decline since the beginning of the decade\".\nIf we want to understand where good ideas come from, we have to put them in context.\nto generate the insights and contextualized metrics\nContext matters.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "want out",
+    "back": "CZ just wanted out.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "arguing the other side",
+    "back": "I always think it's valuable to argue the other side once in a while. It helps you reexamine your own position with a more critical eye.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "unravel",
+    "back": "to unravel a situation; to unravel a mystery.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "To set the record straight",
+    "back": "\"Let me set the record straight about what really happened last week\".",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "vying",
+    "back": "These SAAS startups are vying for companies' business.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "cold calling",
+    "back": "They were cold calling whoever they could asking for money. But they got nothing.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "follow suit",
+    "back": "Spain cut its rates by half a percent but no other country has followed suit.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "至于你的问题",
+    "back": "To get to your question",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "受够了",
+    "back": "fed up\nWe've had one delay after another, and I'm starting to feel pretty fed up.\nFed up with noise and bustle of the big city, the family decided to try country life.\nFed-up consumers are increasingly going after food companies for misleading claims.\n-",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "可观的",
+    "back": "considerable\nconsiderable amount of\nmake considerable difference\nconsiderable progress\nconsiderable influence over someone.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "deeply",
+    "back": "deeply worried/concerned about\ndeeply flawed\ndeeply sorry\ndeeply moved by",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "controversial",
+    "back": "controversial issue/decision/figure.\nhighly controversial",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "一般性常识",
+    "back": "conventional wisdom\nThe conventional wisdom suggests/says that you should go to college to get a good job.\nConventional wisdom is not always wise.\nThe conventional wisdom has been that Hamas was primarily interested in improving the economy.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "召集会议",
+    "back": "call a meeting",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "burning",
+    "back": "burning desire\nburning ambition",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "capture",
+    "back": "capture the attention/interest of the audience.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "literal",
+    "back": "in a literal sense.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "finite",
+    "back": "finite resource/number/amount of",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "articulate",
+    "back": "adj. She is an intelligent and highly articulate person.\nShe gave a witty, entertaining, and articulate speech.\nvb. He found it hard to articulate his feeling.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "line",
+    "back": "in line with.\nalong those lines. Something along those lines.\nI'm looking for a book along the lines of mystery or thriller.\nI've heard similar stories along those lines.\nI've been thinking along those lines for a while now.\nHe said something along the line of, \"the project turns out to be quite fruitful\".\nHe puts his reputation on the line.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "connect those dots",
+    "back": "It might not be how things worked. But people might connect those dots.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "on board with",
+    "back": "The company created a program that not everyone is on board with.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "take it down/ step it up a couple notches",
+    "back": "Could you please take it down a couple of notches? I'm trying to concentrate.\nThe other team is catching up. We need to step it up a notch.\nI'm trying to get into shape, so I'm stepping it up a notch at the gym.\n-\n-\n-",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "sound",
+    "back": "I was sound asleep when the alarm went off.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "沉思",
+    "back": "She was in such deep thought.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "frantically",
+    "back": "I was waving frantically to get their attention.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "历历在目",
+    "back": "I distinctly remember what he told me.\nI distinctly remember what she wore.\nShe vaguely remembers what happened.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "严重怀疑",
+    "back": "I seriously doubt that you got all of these right.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "worthwhile",
+    "back": "If something is worthwhile, it is enjoyable or useful, and worth the time, money, or effort that is spent on it.\nMy trip to NYC have been worthwhile.\nThe food delivery guy was hoping an order comes through that's worth his while.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "Entice",
+    "back": "Google will be able to entice enough users to make their AI investments worthwhile.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "裙带关系",
+    "back": "nepotism\nMany will regard his appointment as the kind of nepotism the banking industry ought to avoid.\n-",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "home stretch",
+    "back": "The project is almost done. We are in the home stretch.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "tab",
+    "back": "I will pick up the tab this time. (bar, drinks)",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "doghouse",
+    "back": "I forget my wife's birthday. Now I am in the doghouse.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "to earn just enough money to live on",
+    "back": "make ends meet\nThe family is struggling to make ends meet.\nWe barely make ends meet.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "ear",
+    "back": "I am all ears.\nWe will play it by ear.\ngo with the flow.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "off the beaten path",
+    "back": "The beach is certainly off the beaten path.\nI'd like to go to somewhere, you know, a little off the beaten path.\nGet off the beaten path.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "bend over backwards",
+    "back": "I've been bending over backwards to help you.\nIn 2021, companies were bending over backwards to attract people.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "The moment of truth",
+    "back": "We're getting our exam results today so the moment of truth is nearly here\".\nLift-off is always the moment of truth for a new rocket.\nThe moment of truth comes when you try to start the engine you have just rebuilt.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "race to the bottom",
+    "back": "It's a race to the bottom.\nWe should prevent ourselves from racing to the bottom.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "data plumbing",
+    "back": "The tool manages the plumbing of data to the backend system.\nIt's possible to plumbing error handling here. (coding)",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "shove",
+    "back": "We should find a way to shove enough data down PubSub to knock over",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "to be on the ball",
+    "back": "You really need to be on the ball for the important meeting tomorrow.\nI mon the ball. You ron the ball. She zon the ball.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "睁一只眼闭一只眼",
+    "back": "turn a blind eye to sth.\nturn nuh blin deye\nThe teacher turned a blind eye to cheating during the quiz.\nI know she is cheating, but I decided to turn a blind eye to the situation.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "Over the top",
+    "back": "it's over the top.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "改变主意了",
+    "back": "I had a change of heart.\n-",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "balance",
+    "back": "We try to strike the right balance between velocity and reliability.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "strike a nerve",
+    "back": "Something she said to him must have struck a nerve. I've never seen him so angry.\nHis controversial column might have struck a nerve with some readers.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "get on my nerves",
+    "back": "this really got on my nerves.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "strike",
+    "back": "Try to strike a middle ground.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "shy",
+    "back": "I never shy away from making decisions.\nShe shies away from public speaking.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "不必要",
+    "back": "They are buying food and other necessities but for months have also been cutting back on some discretionary items.\nConsumers still have good savings, but they are being more judicious in how they spend.\nWork not deemed mandatory for this purpose is discretionary work.\nHouseholds appear to be cutting back on discretionary consumption.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "finicky",
+    "back": "Because her boss is so finicky, the housekeeper makes sure that the carpets are cleaned at least twice a day.\nOur easy-going baby has turned into a finicky toddler, who will only eat macaroni and cheese for dinner.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "tide",
+    "back": "The tide is turning against working from home.       The tide is starting to go out.   The tide is coming in.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "means",
+    "back": "Many people are living beyond their means and are struggling to make ends meet.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "fleshed",
+    "back": "I will make the presentation more fleshed out by adding more details and examples.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "resonate",
+    "back": "It resonates with me.\nThe story of the immigrant who came to America and achieved success resonated with me because it reminded me of my own family's journey.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "hold off on",
+    "back": "Hold off on filing your return,  IRS tells millions of taxpayers.\nU.S. urges Israel to hold off on ground invasion.\nHold  off on reviewing the CL. Let's hold off until we hear back from HR.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "pinch",
+    "back": "in a difficult situation.\nI can give you a ride to the airport in a pinch.\nMake do in a pinch.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "paramount",
+    "back": "The interests of the child are of paramount importance.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "agonize",
+    "back": "The couple agonized over their decision to divorce.\nThe student agonized over her decision of whether to go to college or not.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "hand waving",
+    "back": "If this explanation seems a bit like hand waving. It is. Many of the details have not been worked out.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "混过去",
+    "back": "We don't have an ultimate ambition; we just muddle through.\nThe team managed to muddle through another season.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "radar",
+    "back": "Sorry, this fell off my radar due to various OOO days and the release org tlm summit.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "refresher",
+    "back": "Just a quick refresher.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "up in the air",
+    "back": "the fate of the power station is up in the air.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "feet",
+    "back": "How long did it take them to get back on their feet.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "strive",
+    "back": "We strive for a one week release cycle.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "migrate off",
+    "back": "We are migrate off Flex.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "toil",
+    "back": "we need to reduce operational toil by automating the process of provisioning and configuring server.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "open up",
+    "back": "this opens up more room for other mistakes, such as forgetting to save the file.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "empirical",
+    "back": "the opposite of theoretical.\nThe empirical evidence suggests that climate change is real and caused by human activity.\nThe empirical data shows that there is a correlation between smoking and lung cancer.\nThe theoretical predictions of the theory of relativity have been confirmed by empirical observations.\n-\n-",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "分水岭",
+    "back": "The day you got your braces off might have been a watershed moment in your life.\n-\n-\n-\n-\n-\n-",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "instill confidence",
+    "back": "A good teacher knows how to **instill confidence** in their students by focusing on their progress rather than their mistakes.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "lackluster",
+    "back": "Despite months of intensive training, the athlete was disappointed by his **lackluster performance** at the qualifiers, which he attributed to a lingering bout of nerves.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "mystical",
+    "back": "She claimed to have had a **mystical** experience during her meditation that gave her a new perspective on life.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "solidify",
+    "back": "The two companies signed a formal agreement today to **solidify** their new business partnership.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "Devil's bargain",
+    "back": "The athlete realized he had made a **Devil's bargain** when he traded his long-term physical health for a few years of drug-enhanced glory on the world stage.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "Herd mentality",
+    "back": "During the stock market boom, many novice investors fell victim to **herd mentality**, buying overvalued shares simply because everyone else was doing it",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "undercut",
+    "back": "to weaken, damage, or undermine the effectiveness, power, or credibility of someone or something. In a commercial context, it specifically refers to selling goods or services at a lower price than a competitor.\nThe small local grocery store struggled to survive after a massive supermarket chain moved into town and began to **undercut** their prices.\nBy failing to follow through on the promised rewards, the manager managed to **undercut** the morale and motivation of the entire department.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "disposition effect",
+    "back": "Sarah fell victim to the disposition effect when she sold her shares in a booming tech company after a modest 5% gain but refused to sell her declining retail stocks, hoping they would eventually \"break even.\"\n-",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "Write my own ticket",
+    "back": "The young quarterback is so talented that once he hits free agency, he’ll be able to write his own ticket.\nBack in 2020, I was a staff software engineer at Google and I was able to write my own ticket at any tech company.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "used to express a particular person’s opinion, perspective, or limited interest in a matter",
+    "back": "as far as someone is concerned.\nHe had already apologized twice, and as far as he was concerned, the matter was settled and didn't need to be discussed further\n-",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "makeshift",
+    "back": "The interns had to makeshift a standing desk by stacking several heavy delivery boxes on top of a standard table.\nThey arranged a row of chairs to form a makeshift bed",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "Piqued my interest",
+    "back": "The mysterious headline in the morning paper piqued my interest, leading me to spend the whole afternoon researching the case.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "Limit user agency",
+    "back": "The minimalist design of the app is intended to limit user agency, funneling the customer directly toward the checkout button without distractions.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "standoff",
+    "back": "The armed standoff between the suspect and the authorities lasted for six hours before a peaceful resolution was finally reached.\nThe trade talks ended in a standoff, as neither country was willing to compromise on the proposed tariff increases.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "so to speak",
+    "back": "It serves as a verbal signal that you are using a figure of speech or an analogy to describe a situation.\nIn this project, I am the glue that holds the team together, so to speak, ensuring that every department stays in constant communication.\nHe has reached the end of the road, so to speak, and has no choice but to retire from professional sports.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "give-and-take",
+    "back": "A good marriage requires a healthy amount of give-and-take from both partners.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "play the odds",
+    "back": "It implies taking a calculated risk rather than relying on luck or intuition alone.\nInstead of investing in a high-risk startup, she chose to play the odds by putting her money into a diverse index fund.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "善有善报",
+    "back": "comes around and goes around\nHe spent years undermining his colleagues to get ahead, but now that he needs help, he’s finding that what comes around goes around.\nI believe that kindness comes around and goes around, so I try to help a stranger whenever I have the opportunity.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "inhibition",
+    "back": "after a few minutes of conversation, she finally lost her inhibition and started to enjoying the party.\nHis debilitating inhibition made it impossible for him to speak during the meeting, even though he had the best solution to the problem.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "freeloader",
+    "back": "After three months of sleeping on the couch and never offering to pay for groceries, it became clear that he was just a freeloader.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "In someone's own term",
+    "back": "In his own term, he had always treated me very well.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "trench",
+    "back": "This was not some remote executive who wanted to be kept in the loop but took no specific interest in the work going on in the trenches:",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "bank on it",
+    "back": "The forecast says it will be a clear day for the wedding, and you can bank on it; the local meteorologist is never wrong.\nHe promised that the repairs would be finished by Friday, but I wouldn't bank on it given his history of missing deadlines.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "proliferate",
+    "back": "With the rise of social media, rumors and misinformation tend to proliferate much faster than verified facts.\nAfter the law was passed, small tech startups began to proliferate across the city's downtown district.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "produce or make sth from whatever is available",
+    "back": "improvise\nI improvised a costume for myself out of an old blue dress.\n-",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "Charrette",
+    "back": "Community members participated in a week-long design charrette to collaborate with architects and city planners on the new downtown park\n-",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "Weather",
+    "back": "We’ve weathered the storm and are poised to enter a new era.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "Last shot",
+    "back": "it is their last shot at a ring.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "fait accompli",
+    "back": "The policy change was presented to us as a **fait accompli**, without consultation or discussion.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "Unwavering",
+    "back": "his unwavering attention to every detail of the project ensured its success",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "Lose its steam",
+    "back": "The company's new advertising campaign started out strong but began to lose its steam after only a few weeks",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "Complacent",
+    "back": "you can't afford to be complacent about security",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "Occur",
+    "back": "it has never occurred to me.\n-\n-",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "Sidestep",
+    "back": "Instead of facing his fear of public speaking, he tried to sidestep the issue by claiming he was too busy to prepare a speech.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "Slack off",
+    "back": "He's been slacking off at work ever since he found out he's getting a promotion.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "Stay put",
+    "back": "the only feasible course of action is staying put in one’s job.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "One-size-fits-all",
+    "back": "Like anything, there isn’t a one-size-fits-all cure for burnout",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "僵局",
+    "back": "impasse\nThe negotiations reached an impasse when neither side was willing to compromise on the new contract's terms.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "Regain perspective",
+    "back": "Re-evaluate your situation to understand its relative importance.\nSometimes stepping away from a difficult situation can help you regain perspective and see the solution more clearly.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "Face it head on",
+    "back": "Confront a problem directly and without avoidance.\nRather than avoiding the problem, she decided to face it head on and deal with the difficult conversation immediately.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "Strip it of its power",
+    "back": "Reduce its influence or effectiveness.\nHe decided to ignore the troll's comments, knowing that his silence would **strip them of their power** to upset him.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "A narrow majority",
+    "back": "The bill passed the senate by **a narrow majority** of just two votes",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "Skeptical",
+    "back": "You might be skeptical of self-reporting drinking habits.\n-\n-",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "The jury is still out",
+    "back": "The long-term effects of the new technology are still unknown, so the jury is still out on its overall impact",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "To put it on the back burner",
+    "back": "The company put the project on the back burner.  Their complaints have definitely been pushed to the back burner.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "To put it in perspective",
+    "back": "To put the current economic situation in perspective, consider that it's not as severe as the crisis from ten years ago.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "Let it sink in",
+    "back": "The team has lost 56 games in a row. Let that sink in.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "Precursor",
+    "back": "the agreement is seen as a **precursor** to talks",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "table stake",
+    "back": "In software development, basic features like user authentication or search functionality are often table stakes.\nIn the news industry, publishing continuously to meet audience needs is a table stake, as is being present on the platforms where audiences consume news",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "get caught up",
+    "back": "As we get older, we get so caught up in our responsibilities and our obligations that we forget about playing.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "low-stakes",
+    "back": "In order to fall asleep, I usually listen to low-stakes stories. Short stories that don't have any heavy subtext.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "apply",
+    "back": "If we're having trouble with something, the harder we apply ourselves to the task, the more likely we are to succeed.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "going cold turkey",
+    "back": "He decided to go cold turkey on his smoking habit, even though it meant facing some intense cravings.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "feel strongly",
+    "back": "It's not because it's the most viable outcome, it's because you feel it most strongly.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "piggyback",
+    "back": "we can piggyback on it.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "to betray or deceive someone, especially after having gained their trust",
+    "back": "double cross.\nThe winner is often the player who manages to  *double* - *cross*  the other players just before they  *double* - *cross*  him.\nMost politicians at least wait a decent interval to pull a double cross",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "shortcoming",
+    "back": "the shortcoming of this approach is it's too slow.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "reckon",
+    "back": "估计。 I reckon it's going to rain.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "lean in",
+    "back": "let me know where I can lean in to help.\nWe are ready to lean in and see how we can support you through any uncertainty.\nLMK if I can lean in top push UX for decisions.\n-",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "lean toward",
+    "back": "I'm also leaning toward creating two objects.\nI'd rather lean towards correcting behavior of the individuals abusing the policy.\nI am leaning towards  approving.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "Lean into",
+    "back": "since then, she leaned into labubu content\n-",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "continue",
+    "back": "Continuing on that front.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "简明扼要",
+    "back": "succinct suc'cinct\nHe gave a succinct overview of the expansion project.\nThe idea was succinct captured in the motto.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "head on",
+    "back": "Constructively address the issues head on.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "直击要点",
+    "back": "spot-on. This is spot-on. The timing is spot-on.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "只看到表面，不去深究",
+    "back": "take it at face value",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "believe only part of somethiing",
+    "back": "take something with a grain of salt.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "light-hearted",
+    "back": "I am light-hearted.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "sensitive - logical",
+    "back": "I am a sensitive person. I am a logical person.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "realistic",
+    "back": "I am a realistic person.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "spontaneous",
+    "back": "I am spontaneous.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "practical",
+    "back": "I am practical.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "analytical",
+    "back": "I am analytical about issues facing my life. Answers and issues naturally emerge for me to see.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "praise",
+    "back": "I am very generous in giving praise. I am selective in giving praise.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "creative",
+    "back": "I am not a very down to earth thinker. I am a creative, strategic thinker.\n-",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "in a similar vein",
+    "back": "The first speaker focused on the importance of mental health, and in a similar vein, the second speaker discussed strategies for managing stress.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "Be judicious",
+    "back": "We should make judicious use of the resources available to us.\nWhen giving feedback, it's important to be judicious with your words to ensure they are constructive and encouraging",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "turn the table",
+    "back": "It's time for you to turn the tables on me and ask questions about us.\n-",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "succinct",
+    "back": "Her explanation was succinct, providing just the right amount of detail without unnecessary elaboration.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "pull off",
+    "back": "to succeed in doing something difficult or unexpected.\nIf I have a great teacher, I know I'll pull it off.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "take off",
+    "back": "My YouTube channel didn't take off at first, but I was persistent and consistent. And eventually, it took off.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "put off",
+    "back": "Let's put off the meeting until after the long weekend.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "call off",
+    "back": "They began to receive threats to call off their events.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "catch up on",
+    "back": "I spent the whole day catching up on emails.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "comb through",
+    "back": "thoroughly. Do you have time to comb through his report?",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "skim through",
+    "back": "to review something quickly, without going into detail.\nThe consultant has an impressive background, but I only skimmed through his proposal.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "gloss over",
+    "back": "To briefly mention something without going into detail, often to avoid discussing it thoroughly.\nThe consultant glossed over the budget increase.\nMy brother always glosses over why his girlfriend doesn't come to family gatherings.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "pan out",
+    "back": "to have a successful outcome.\nThe strategy didn't pan out, so we need to revise our approach.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "drift off",
+    "back": "To gradually become less focused or to fall asleep unintentionally, often while engaged in an activity.\nI think I drifted off during the presentation.\nSometimes I drift off when my husband starts talking about his work.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "dip into",
+    "back": "We had to dip into our emergency fund.\nWe had to dip into our savings to cover the cost of the car repair.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "shake off",
+    "back": "to get rid of something, such as a problem or mistake, and move on from it.\nIf you make a mistake, just shake it off.\nWe're down 3 points. We need to shake it off and play better than ever.\n-\n-\n-\n-",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "To make the most of it",
+    "back": "He was eager to make the most of his visit",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "保持低调",
+    "back": "keep a low profile",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "look on the bright side",
+    "back": "Hey, look on the bright side. Now you get to go shopping for some new clothes.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "out of the blue",
+    "back": "He mentioned this out of the blue.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "very soon",
+    "back": "before you know it.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "all things considered",
+    "back": "The wedding was a great success, all things considered. Used for saying that something is true or good in general if you think about all its aspects.\n-\n-",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "inquisitive",
+    "back": "Anna has an inquisitive mind.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "comeback",
+    "back": "Socks and sandals are making a comeback.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "novelty",
+    "back": "The novelty is wearing off. The novelty has worn off.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "know-it-all",
+    "back": "He's such a know-it-all. Don't be such a know-it-all.\n-\n-",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "不是我的强项",
+    "back": "Public speaking is not my strong suit.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "突如其来地发生了",
+    "back": "Business problems started cropping up.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "都得出力",
+    "back": "In order to meet the deadline, everyone on the team has to pull their own weight.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "Pick up the slack",
+    "back": "to improve a situation by doing something that someone else has not done or not completed.\nYou may need to pick up the slack if someone calls in sick.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "水准以下",
+    "back": "His presentation was not up to par.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "up to speed",
+    "back": "When you have all the latest information about a subject or activity.\nI didn't go to the meeting. Could someone please get me up to speed?\nShe didn't attend class yesterday. Perhaps one of the other students will help bring her up to speed.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "偷工减料",
+    "back": "they really cut corners.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "有很多事情",
+    "back": "I know that you probably have a lot on your plate.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "不容易得到的",
+    "back": "Opportunities like this are hard to come by.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "逃离",
+    "back": "It's starting to rain. We'd better make a run for it.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "失去计数",
+    "back": "I lost count of how much money we spent last month.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "不可能做某事因为不认为是对的",
+    "back": "I wouldn't dream of quitting my job.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "用简单的词",
+    "back": "You need to use small words.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "我有强项",
+    "back": "I have a knack for that. for doing someting.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "basic, simple or without extra features",
+    "back": "no frills\nNo-frills airline. No-frills car. No-frills lifestyle.\n-",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "Out of order",
+    "back": "When things are out of whack, you might start to wonder what’s causing the problem.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "秀肌肉",
+    "back": "That’s a flex.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "cutthroat",
+    "back": "The cutthroat competition in the workspace is detrimental.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "大件",
+    "back": "big-ticket items",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "提起动量",
+    "back": "China's economy struggles to pick up momentum.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "软着陆的轨迹",
+    "back": "put it on course of a soft landing.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "买不起",
+    "back": "Millions of people have been priced out of the market.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "start to have an effect",
+    "back": "take hold\nThe economic recovery is just beginning to take hold now.\nWhen a workplace is collaborative and respectful to begin with, it's much harder for problems to take hold.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "所有都可以谈",
+    "back": "everything is on table.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "暂停",
+    "back": "on hold.\nis this on hold or should we proceed?",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "下一个挑战！",
+    "back": "On to the next!",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "out there",
+    "back": "put yourself out there more.\nask more questions, show more initiative.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "机会就会来",
+    "back": "The right opportunity will come along.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "好的扩展人脉的机会",
+    "back": "a great opportunity to network",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "没有防备",
+    "back": "It caught me off-guard.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "让我发飙",
+    "back": "it really set me off.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "可能是我",
+    "back": "it might be me, but it seems to be a problem.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "becoming worse",
+    "back": "Things went downhill.\n-",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "ask someone for their opinion, impression or understanding of something",
+    "back": "What do you make of it?\nI don't know what to make of him.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "情有可原",
+    "back": "extenuating. Library staff will waive fines where there are genuine extenuating circumstances.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "感性，理性",
+    "back": "I am a sensitive person. I am a logical person.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "delicate",
+    "back": "It's a delicate dance.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "alienate",
+    "back": "He was alienated from where his own country was going.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "numb",
+    "back": "I was just able to numb myself and convince myself, it's fine.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "make it through",
+    "back": "I'll always find a way to make it through.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "crisscross",
+    "back": "I spent about a week in Tokyo, crisscrossing the city.\n-",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "Take shape",
+    "back": "The plan is finally taking shape.\n-",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "Come down to",
+    "back": "Most of the measurable and qualitative improvements in today’s large language model AIs come down to shoving ever more data into them.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "Bone",
+    "back": "cut costs to the bone.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "Predicate",
+    "back": "The current level of investment seems to be predicated on the idea that AI is going to get so much better, so fast, and be adopted so quickly that its impact on our lives and the economy is hard to comprehend.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "Declutter",
+    "back": "When they start to declutter, they can find things more easily, think more clearly, and spend less money.\n-",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "retool",
+    "back": "Tech workers are feverishly retooling their skill sets for a time when every company suddenly wants to be an ai company.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "bridge the gap",
+    "back": "Workers are attempting to bridge the gap between what they know and what they need to know.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "pivot",
+    "back": "I am adding skills and knowledge to pivot into this gaming changing technology.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "proficient",
+    "back": "The company is trying to remold its workforce to be more AI proficient.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "make things even",
+    "back": "It will make things even.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "一开始就把期望说好",
+    "back": "You should manage expectations upfront.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "晾着",
+    "back": "The division has been up in the air strategically for a while, so this should not come as too much of a surprise.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "stopgap",
+    "back": "This is just a stopgap measure.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "密切观察",
+    "back": "keep a close eye on\nWe will keep a close eye on when and where we hire.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "the decisive or most important point at issue.",
+    "back": "crux\nThe crux of this architecture is a new internal data model.\n-",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "on a budget",
+    "back": "I am on a budget.\n-",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "All for",
+    "back": "I am all for office playtime.\nI am for trying new things.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "公平竞技场",
+    "back": "a level playing field. He wants the government to revise the tax code to provide a  *level playing field*  for all companies.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "stand by",
+    "back": "I stand by my analysis.\nTimes leaders in March said they stand by the reporting.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "at capacity",
+    "back": "The elevator was at capacity and could not take any more passengers.\nThe factory operated at only 60% capacity.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "straight up",
+    "back": "He straight up called it ugly.\nI just straight up asked her for her email.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "come in handy",
+    "back": "this tool will come in handy when you are debugging the service.\n-",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "纯属巧合",
+    "back": "it's purely coincidental.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "主食",
+    "back": "staple food.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "世俗，单调，平凡",
+    "back": "The company released two equally mundane features.\n-",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "to treat or show (something or someone) in a way that is as good as it should be",
+    "back": "The movie does not do justice to the book.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "全天候",
+    "back": "My mom needs round-the-clock care.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "in accordance with one's wishes or in one's own way",
+    "back": "I would like to leave the company on my own terms.\n-",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "turn the tables on somebody",
+    "back": "The candidate used his extraordinary political skills to  turned the tables on his opponents.\nThe little girl turned the tables on her fathers who thought she was fat.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "premise",
+    "back": "these companies' whole business model is premised on us buying more, throwing it away.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "完全没有机会",
+    "back": "they don’t stand a chance.\n-",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "disproportionately",
+    "back": "Comfort is inevitably sacrificed, and it affects people disproportionately. With Smartwatches, it often boils down to the size and weight of the case compared to your wrist.\nThe middle-class families bear a disproportionately share of the tax burden.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "defy",
+    "back": "We defied the odds.\nYou defied the laws of physics",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "hesitant",
+    "back": "clients are hesitant about buying.\nShe was hesitant about accepting the job",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "撇开来",
+    "back": "Just to get that out of the way.\nWe should take this off the table.\nTake it out of the equation\nremove something from consideration",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "期望管理",
+    "back": "Can we manage some expectations here?",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "利益相关",
+    "back": "People with a vested interest in ML adoption will say good thing about it and hope everyone use it.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "concession",
+    "back": "If we need to compromise, you may make a concession. I may also have to make a concession.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "influx",
+    "back": "The town experienced an influx of tourists this summer.\nThe business needs an influx of money, or it may not survive.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "xenophobia",
+    "back": "怕外的，排外的",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "out of the woods",
+    "back": "being clear of danger or difficulty. We're through the worst of the recession—we're out of the woods now\".",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "the line of thinking/reasoning",
+    "back": "We cannot agree with their line of reasoning.\nSome economists dispute this line of thinking.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "refer back to an  *idea*  expressed in the previous statement.",
+    "back": "in that respect / in this regard\nWe are trying to move the needle in that respect.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "be of the same opinion; agree",
+    "back": "concur. I concur.\nThe authors concurred with the majority.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "杯水车薪",
+    "back": "a drop in the bucket",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "去哪儿",
+    "back": "Where are you headed? I am headed to the school.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "impose",
+    "back": "I don't what to impose on you.\nI'd like to see you, if that wouldn't be too much of an imposition.\nYour kids can stay with me the night you're away—it's really not an imposition.\n-",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "kicker",
+    "back": "an unexpected and surprising remark, revelation, or set of circumstances. \"The tickets are free, but the kicker is that you have to wait in line for hours to get them\". Here is the kicker.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "Prowess",
+    "back": "Trinity's problem-solving prowess makes her highly effective in achieving her objectives",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "我们都知道这要发生",
+    "back": "We all saw this coming",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "thin",
+    "back": "I feel stretched too thin",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "Slice and dice",
+    "back": "you may want to slice and dice the data in a different way\n-\n-",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "dubious",
+    "back": "Alex looked dubious. It's a dubious assumption.\nSuspicious.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "situation",
+    "back": "The fund allows me to get myself out of any situation that I don't want to be in.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "stepping stone",
+    "back": "There wasn't any stepping stone to the next role or position.\nIt is just another stepping stone to bigger and better things\nI see this job just as a stepping stone to better things.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "\"million dollar question\"",
+    "back": "It's a million dollar question.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "capitalizing",
+    "back": "China has been capitalizing on this situation.\ndo they have what it takes to capitalize on this emerging opportunity?\n-",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "can't help",
+    "back": "I can't help doing it.\nShe couldn't help but think of ways that she could have solved more quizzes.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "discerning",
+    "back": "/dəˈsərniNG/ having or showing good judgment.\nShe's grown more discerning about what she spends on, especially as tickets for food festivals, museums and other attractions get more expensive.\n-",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "get lost in the shuffle",
+    "back": "The new employee's brilliant ideas got lost in the shuffle of the company's bureaucracy.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "near miss",
+    "back": "The company had a near miss last year when they narrowly avoided bankruptcy.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "grind to a halt",
+    "back": "Traffic ground to a halt.\nThe country’s economy is slowly grinding to a halt.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "expedite",
+    "back": "I need you to expedite this order, please. It's urgent.\nThe company is offering expedited shipping for an additional fee.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "leeway",
+    "back": "With ten minutes' leeway we can catch the train. His instructions gave us plenty of leeway.\nWith a flexible schedule, I have the leeway to adjust my working hours to better accommodate my personal commitments and family responsibilities.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "withstand",
+    "back": "The structure had been designed to withstand winds of more then 100 mph.\n-",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "奢华",
+    "back": "extravagant",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "worth",
+    "back": "There is a desire to get your money worth.\nIs it possible to eat your money worth?",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "无所不能",
+    "back": "No module needs to be a jack of all trades.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "bleed out",
+    "back": "do they have side-effects that bleed out?",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "你带路",
+    "back": "You lead the way.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "想吃啥",
+    "back": "What do you feel like eating?",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "subsidize",
+    "back": "I am subsidizing your meal.\nCross subsidy",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "better off",
+    "back": "People would be better off avoiding drinking altogether.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "in good faith",
+    "back": "he was acting in good faith.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "stick in",
+    "back": "This was something he thought would stick in people's heads.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "尖锐",
+    "back": "Their questioning is going to be really incisive and sharp.\nThe detective's incisive mind allowed him to solve the case quickly.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "沉没成本谬论",
+    "back": "sunk cost fallacy",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "包月",
+    "back": "flat rate pricing",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "our choices are influenced by the way they are framed through different wordings, settings, and situations",
+    "back": "framing bais",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "costco roast chicken",
+    "back": "Loss leader",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "alter",
+    "back": "Their meeting could alter the way that investors are looking at the economic data.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "YOLO",
+    "back": "People are still YOLO spending. They are not YOLO trading.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "defunct",
+    "back": "a defunct railroad\nThe defunct factory was once used to produce cars, but it has since been converted into a loft apartment complex.\nThe government agency became defunct after its budget was cut to zero.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "in essence",
+    "back": "In essence, the government's policy is to raise taxes and cut spending.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "smooth out",
+    "back": "It's going to smooth out over time.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "composure",
+    "back": "The athlete maintained her composure during the high-pressure match.\nShe seemed so calm and composed.\n-\n-\n-",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "be extremely noticeable",
+    "back": "Many important things had happened to him, but one stuck out.\n-",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "担保",
+    "back": "vouch\nthey say New York is the city that never sleeps, and I can certainly vouch for that\"\nHe was refused entrance until someone could vouch for him.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "minuscule",
+    "back": "She had a minuscule budget.\nThe minuscule insect crawled slowly",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "经济情况",
+    "back": "Financial circumstances\nFinancial circumstances can sometimes force individuals to make difficult decisions, such as downsizing their home or cutting back on discretionary spending, in order to maintain a stable financial situation during tough times.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "信托人",
+    "back": "As fiduciary, they must act in your best interests.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "首先也是最重要的",
+    "back": "first and foremost",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "终止项目",
+    "back": "pull the plug of the project\n-",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "抓住救命稻草",
+    "back": "to grasp at straws\nWe are grasping at straws here.\n\"He had lost the argument, but he kept grasping at straws, naming numerous previous cases that had little to do with this one\".",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "Grasp",
+    "back": "The child was able to grasp the main idea of the story.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "笑话不好笑",
+    "back": "The joke falls flat.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "set foot in",
+    "back": "Chi had never set foot in mainland China.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "lose your head/mind",
+    "back": "head: lose control, not act in a calm way, angry and upset.\nmind: crazy.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "facilitate",
+    "back": "facilitate learning/growth/access/communication.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "比喻/隐喻",
+    "back": "metaphor",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "修辞",
+    "back": "rhetoric, rhetorical\nIt's a rhetorical question.\nA politician might use rhetoric to persuade voters to support their policies. A teacher might use rhetoric to engage their students in learning.\nA con artist might use rhetoric to trick people out of their money\nRamp up the rhetoric about china is not a friendly partner",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "Come together",
+    "back": "\"Bits and pieces of things he'd read and heard were coming together, and he began to understand\".\nThings are coming together slowly.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "全搞明白了",
+    "back": "figure it all out.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "焦点",
+    "back": "focal point.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "Take a chance",
+    "back": "She's trying to find a publisher who will take a chance on her book.\nMy professor took a chance on me.\nI don't want to take a chance.\nIt might not work, but it's a chance we'll have to take.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "Chances are",
+    "back": "Chances are most of the common tasks you want to accomplish have already been implemented by a module.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "告诉他们你的想法",
+    "back": "give them a piece of your mind.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "数字对你有利",
+    "back": "The math is coming your way.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "甩掉，摆脱",
+    "back": "Get him off my back.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "利用好",
+    "back": "Use it to your advantage.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "速读",
+    "back": "In meetings, people usually take the first 10 minutes to speed read.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "有准备来对话",
+    "back": "come to the conversation more prepared.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "包括我",
+    "back": "myself included.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "an idiom that means to stress the truth or accuracy of a statement, certain, no doubt",
+    "back": "make no mistake.\nMake no mistake, if we don't address these problems now, they will only get worse.\nMake no mistake. I'll quit the job tomorrow.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "ought to do",
+    "back": "We ought not to have agreed without knowing what it would cost.\n\"We ought to be getting ready now.\" \"Yes, I guess we ought (to).\"\nHe ought to be home by 7 o'clock.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "消耗",
+    "back": "The project has been really taxing for the team.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "be consumed by/with",
+    "back": "He was consumed with jealousy. His heart was consumed by anger.\nHarry had been missing for over a month and we were all consumed by worry.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "To be one of the first to do something and leading them to do it too",
+    "back": "Lead the charge\nSingapore led the charge in Southeast Asia's development, going from a low-income nation to an upper middle-income one.\nhe is leading the charge to make necessary changes.\nIt was small businesses that led the charge against health care changes.\nCalifornia always seems to lead the charge in passing progressive environmental laws.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "This time around",
+    "back": "This time around, the team is handling the incident much better.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "不是偶然的",
+    "back": "It didn't happen by accident.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "made ones way into",
+    "back": "The food have made their way into school cafeterias.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "抓住机遇",
+    "back": "The challenge now is to seize the opportunity/moment.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "启动",
+    "back": "The startup needs a lot of cash to get off the ground.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "回到起点",
+    "back": "The failure set us back to sqaure one.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "TMI",
+    "back": "It's a lot to take in.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "misgiving",
+    "back": "I personally have deep misgivings about this vision of the future where everyone is super close to AI friends.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "pervade",
+    "back": "A smell of stale cabbage pervaded the air.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "miss opportunities",
+    "back": "Throughout his career, John regretted the missed opportunities that could have propelled him to greater success had he acted on them.\"",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "striking",
+    "back": "\"When you look at the rapid advancements in technology over the last decade, what's so striking about that is how it has completely transformed the way we live, work, and communicate.\"",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "it strikes me",
+    "back": "It strikes me that there is a larger issue at stake. (one understands or is aware of something).    It strikes me that so few of them were willing to help.  (one thinks something is unexpected or unusual)\nThis might strike you as a surprise, but I've never tasted coffee in my life.\nThis might strike you as a peculiar choice, but I decided to spend my summer vacation volunteering at an animal shelter instead of going to a popular tourist destination.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "公开谴责",
+    "back": "decry",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "give permission, yes, certainly",
+    "back": "by all means\n-",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "pivotal",
+    "back": "it's really going to be a pivotal moment in the trial.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "fizzle out",
+    "back": "They went to different universities and their relationship just fizzled out.\nThe enthusiasm for reform has fizzled out in this state.\nHe had a great rookie season and then just fizzled out.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "fizzle",
+    "back": "It's fizzled big time.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "meticulous",
+    "back": "extremely careful and thorough\nshe showed this spreadsheet, that they went over meticulously for about an hour.\nHe described the scene in meticulous detail.\nOur accountant is very meticulous about his work.\nThe process of calculating cpi is meticulous.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "wear out",
+    "back": "He wore out his shoes wandering around Mexico City.\nThe young people run around kicking a ball, wearing themselves out.\nWorn out: adj. You look worn out. worn-out shoes",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "wear down",
+    "back": "These meetings really wear me down.\nThey basically wore down the guy to take the ticket.\n-\n-\n-",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "regret",
+    "back": "I regret to tell you that.\nDo you regret going into mining?\nI regret not going to school furthering my education.\nI would regret not having done it.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "resurgence",
+    "back": "There has been some resurgence in economic activity recently.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "Lighthearted",
+    "back": "In a way it was kind of lighthearted.\nHe seemed rather lighthearted about the situation",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "a thing of the past",
+    "back": "That was a thing of the past",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "take place",
+    "back": "I'd like these changes to take place.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "beat",
+    "back": "I came home so beat, wore out.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "one way or another",
+    "back": "you're going to have to work with a Chinese company one way or another.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "dominant",
+    "back": "The delegator was overwhelmingly dominant for providing traffic to the enviornments.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "leverage",
+    "back": "It gives China leverage against the US.\nThese workers formed a union to exercise their leverage.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "come across",
+    "back": "One thing came across when I was reporting the story is companies keep doing bad investments.\nI came across these old photos lately.\ncome across as (伪装成） He'd always come across as a decent guy.\nHe came across, as you said, calm and coherent and he seemed very poised.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "make-or-break",
+    "back": "adj\nthese rules are potentially make-or-break for this.\nIt's a make-or-break decision.\nTrinity was in a make-or-break situation, and the appointment of the next Principal would be decisive for its survival.\nIt's make-or-break time.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "enticing",
+    "back": "car makers would have an incentive to still keep selling and developing more gasoline powered cars if they're more enticing to consumers",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "stagnate",
+    "back": "While salaries have risen for young people in finance, marketing, logistics and even teaching, pay for young accountants has stagnated, leading fewer people to choose accounting careers.\nRecently, geothermal has become a lot less stagnant. (we are in a renaissance right now for geothermal)\nThe pay rate, the benefits, they've been stagnant for a course of time.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "If you will",
+    "back": "The living room had become a makeshift command center, **if you will**, for the entire graduation party planning committee.\"",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "如果我可以的话",
+    "back": "I'd like to ask a couple questions, If I may",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "tag along",
+    "back": "I got to tag along on several some of my dad's rescues.\nThey let us to tag along for half a day.\nGia is traveling to attend an industry conference in Sydney. Her husband tags along so that they can grad a  few days of vacation after the event.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "停顿了",
+    "back": "Things were at a standstill.\nThe traffic came to a standstill",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "基础工作",
+    "back": "We are trying to lay the groundwork now.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "迟缓的",
+    "back": "The sluggish return-to-office rate is leading many city and business leaders to ask the federal government to help.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "激起了",
+    "back": "This piqued your curiosity.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "stake",
+    "back": "the stakes are high.\nIt's a lawsuit that is very high stakes for the company, for the future of big tech.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "eye-watering",
+    "back": "They did borrow what wound up (wind up) being an eye-watering amount of money.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "wind up",
+    "back": "Consumers often wind up underpaying when they autopay.\nAutopay is a convenient way to pay bills, but for many consumers, it winds up costing them money.\n收场",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "unwind",
+    "back": "The grand hotel is a perfect to unwind",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "wind down",
+    "back": "1) draw gradually to a close. As the party wound down, the couple hopped in their car and headed back home. He is winding down his career for the next 10 year.\n2) (of a person) relax after stress and excitement. I sank into a hot bath in order to wind down. I had to go to gym in order to wind down after each presentation.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "wind back",
+    "back": "rewind. 倒带. Let's wind back a bit.\n-\n-\n-",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "警惕",
+    "back": "be wary of sth\nThey were too wary of Covid-19 to go back to work.\n-",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "house of cards",
+    "back": "The company is a house of cards.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "sought after",
+    "back": "The most sought-after artists\nProperty here is highly sought-after",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "fledge",
+    "back": "A full-fledged recession could hurt office returns if it results in widespread layoffs.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "plateau",
+    "back": "Unemployment has at last plateaued out.\nPrices have pretty much plateaued for now.\nThe core capabilities of these systems have reached a plateau.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "lockstep",
+    "back": "March in lockstep",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "marginally",
+    "back": "The inflation picture has gotten marginally better",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "go out of their way",
+    "back": "They went out their way to help people.\n-",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "vr 头盔戴着不舒服",
+    "back": "The vr headset didn't really agree with me.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "巧妙地切入",
+    "back": "With this, we can segue into the next topic.\nThat's a perfect segue to bring in Nick.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "把话筒递给",
+    "back": "I will turn it over to John.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "调整方向",
+    "back": "Pivots are structured course corrections.\nCourse correction requires a lot of skills to navigate well, but the success of it will always come from who they are as people.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "it takes a village",
+    "back": "it takes a village to raise a child. a proverb.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "under control",
+    "back": "A way to keeping inflation in check.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "move the needle",
+    "back": "doing something noticeable that gets you closer to your goals\n\"Our new marketing campaign is really moving the needle in terms of brand awareness.\"\nThe team is really moving the needle in terms of Build Reliability.\n\"The new CEO is focused on moving the needle on profitability.\"\n\"The new educational program is moving the needle on student achievement.\"\nThese actions haven’t yet moved the national return rate needle much.\nCould the opening of her new film move the needle for movie theaters?\nChina's birth rate incentives have not yet moved the needle for weary families.\n-",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "在此之上",
+    "back": "on top of that",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "挑选",
+    "back": "You have to pick and choose the health insurance policy",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "不会太久",
+    "back": "I thought this work wouldn't take long.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "看事态发展",
+    "back": "watch it unfold\nI'll be in court watching it unfold, bringing you every twist and turn.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "深入调查, 进入重重迷局",
+    "back": "Be down the/a rabbit hole.\nFor the past year, I've been down a rabbit hole trying to find out everything I can about the case.\nAll of a sudden, I wander down a rabbit hole.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "这个说明了什么？",
+    "back": "What does this say about the US economy?",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "他们的目标",
+    "back": "That's what they're shooting for, but it's awfully difficult to do that.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "便利设施",
+    "back": "amenity\nI miss the amenity of the office.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "稀缺的时间",
+    "back": "the scarcity of time for focused work is harming the company.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "为周末预热",
+    "back": "how to get a head start on the weekend. Take extra classes to get a head start on a career.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "归根结底",
+    "back": "A year's work boils down to this one game.\nThe problem boils down to one thing ‒ lack of money.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "内爆",
+    "back": "implode\nHis empire was about to implode.\nHis team is the one that would truly implode without him.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "set out to",
+    "back": "Did he set out to commit fraud?",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "搞定",
+    "back": "They nailed it.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "upend",
+    "back": "people really saw FTX as a possibility of completely upending and changing finance.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "virtue",
+    "back": "Simplicity is the virtue.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "上车",
+    "back": "It's the best way to get in the game",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "真心喜欢",
+    "back": "they genuinely like the idea.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "get ahold of sb",
+    "back": "It's difficult to get ahold of my manager.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "边缘",
+    "back": "I was on the verge of quiting.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "那会儿",
+    "back": "at the time, there were only a few people working on the team.\n-",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "以偏概全",
+    "back": "That's an unfair blanket statement that will upset people.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "pull the plug",
+    "back": "Google is pulling the plug weeks before it would begin giving out the first of those upgrades.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "in earnest",
+    "back": "来真的。We will turn these on in earnest.\nWe are looking for founders who are earnest.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "whatnot",
+    "back": "诸如此类 thing like that.\nThe gameplay is insanely fun, with all of the diving and the shooting and whatnot.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "个人生活经验叙述",
+    "back": "my personal narrative.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "on top of things",
+    "back": "Thanks Eric for being on top of things.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "on the flip side",
+    "back": "OTOH",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "对他们有啥好处",
+    "back": "What's in it for them?",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "in it",
+    "back": "There's nothing in it for me.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "as mentioned above",
+    "back": "aforementioned\nsongs from the aforementioned album",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "watershed moment",
+    "back": "It was a watershed moment in the province's political history.\nThe 9/11 terrorist attacks were a watershed moment in American history.\nThe COVID-19 pandemic has been a watershed moment in the way we live and work.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "Overlook, Oversee",
+    "back": "He seems to have overlooked one important fact.\nHe was hired to oversee the design and construction of the new library.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "burn out",
+    "back": "I was burned out.\nJob burnout is a special type of work-related stress.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "work out",
+    "back": "We need to work this out.\nIf things don't work out, you need to move on from that job.\nIn the end, everything works out.\nI think it's time that we work out our differences.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "work through",
+    "back": "We can talk about our issues and work through our problems.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "run by",
+    "back": "I ran the design by the team.\nPlease run it by me before sending it out.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "branch out",
+    "back": "I am just at a place where I want to branch out and explore new opportunities.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "So there you have it",
+    "back": "that is it.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "说明白了",
+    "back": "It's time to clear the air.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "Learn from mistakes",
+    "back": "It's a process of trail and error.  (air er)",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "at odds",
+    "back": "My siblings and I are at odds over the family estate.\nI'm at odds with his version of the story.\nHis behavior is at odds with the interests of the company.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "wishful thinking",
+    "back": "That's just wishful thinking.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "were to",
+    "back": "if somebody were to say \"I want to go home\"",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "Keep that in mind",
+    "back": "please keep that in mind",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "be that as it may",
+    "back": "despite that, nevertheless\nYou have been a good friend to many people. But, be that as it may,  you will be punished because you broke the law.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "For the time being",
+    "back": "I think it's best that they don't know this, at least not for the time being.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "to toss around some ideas",
+    "back": "Let's toss around some project ideas.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "就当当这个",
+    "back": "in and of itself\nThe idea in and of itself is not bad, but the side issues introduce many difficulties.\nComing to our wedding from Europe was, in and of itself, such a generous gift.\nThe ideas in and of itself are not new.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "lo and behold",
+    "back": "I looked in the drawer and, lo and behold, I found my wallet.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "in hindsight",
+    "back": "in retrospect\nIn hindsight, I should have told the truth.\n-",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "实体化",
+    "back": "That plan never really materialized, though.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "成本价｜亏本卖",
+    "back": "most of the devices are sold at cost.\nThe house was sold  at a loss.\nThe company was forced to cut prices to a point where it was selling machines at a loss.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "微妙",
+    "back": "It's a change in the nuance of what they're saying.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "不情愿的必须",
+    "back": "Begrudgingly necessary",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "to behave in an excessively humble or servile way",
+    "back": "cringe. It becomes kind of cringe.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "A clean slate",
+    "back": "Everyone who comes to this school starts with a clean slate.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "Diminish",
+    "back": "It goes past the point of diminishing returns.\nDiminishing marginal returns.\nIf they stay at these levels, well then the need for us to jump in and do another rate hike has been diminished.\nAs we get older, our muscle strength tends to diminish.\nHis careless mistakes diminishes him in the eyes of managements.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "course",
+    "back": "WHO said the highly mutated omicron variant of Covid-19 could change the course of the pandemic.\nHe was a friend to many people in the course of his life. in the course of a year; over the course of 1,00 0 years. Over the course of my lifetime.\nAmazon and TikTok are on a collision course.\nLet history run its course.\nThere might be good reasons to let a fever run its course. The doctor's advice is to let the fever run its course\".",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "up to",
+    "back": "Anyway, up to anything fun this weekend?",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "precaution",
+    "back": "Homeowners should take the basic precaution of locking their doors and windows.\nTake these precautions.\nDOH urges everyone take precautions.\nThere are everyday precautions you can take to help keep you healthy.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "curve",
+    "back": "One way for business to stay ahead the curve is to look for early evidence of emerging trends.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "undertaking",
+    "back": "a formal pledge or promise to do something; a task that is taken on; serious.\nAs chips got more complex, making them became an enormous undertaking.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "detrimental",
+    "back": "The factory's waste was  *detrimental*  to the local environment.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "令人担忧的",
+    "back": "concerning",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "激励",
+    "back": "This is likely to incentivize management to find savings.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "means someone has an insecurity about something. The insecurity usually stems from a negative past experience or characteristic.",
+    "back": "Have a chip on his shoulder.\n-\n-\n-",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "scrutiny",
+    "back": "Come under (close) scrutiny. the policy came **under scrutiny** last month.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "快越界了",
+    "back": "He is getting pretty close to the line on this one.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "没一丝丝防备",
+    "back": "it caught me off guard",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "attention",
+    "back": "thanks for bring this to my attention",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "have it",
+    "back": "so there you have it.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "nuance",
+    "back": "But these decisions are far more nuanced for stores than you may think.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "倾向于同意",
+    "back": "To be honest, I'm kind of inclined to agree.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "inclined",
+    "back": "People are less likely and less inclined to do it.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "in line with",
+    "back": "This is more in line with the behavior in Ruby\nIt falls in line with engprod goals.\nThose losses are nearly in line with stock-market losses seen during the worst crashes of recent history\n-\n-\n-\n-",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "come a long way",
+    "back": "The telescope has come a long way since its first snapshot in February,",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "go a long way",
+    "back": "Being respectful and courteous goes a long way toward building a relationship.\n-\n-\n-\n-\n-\n-",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "money",
+    "back": "put your money where your mouth is",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "2 cents",
+    "back": "this is just my two cents.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "good one",
+    "back": "that's a good one.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "虽然没有帮上，还是谢谢",
+    "back": "Thank you anyway.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "我理解对吗",
+    "back": "Did I get you right?",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "别往心里去",
+    "back": "Don't take it to heart.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "最后没有听清",
+    "back": "I didn't catch the last word.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "合理了",
+    "back": "Oh, that. That explains it.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "打扰了",
+    "back": "Sorry to bother you.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "稍等片刻",
+    "back": "I will be with you in a minute.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "说到哪儿了",
+    "back": "where were we?",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "angry",
+    "back": "I freaked out! I am freaking out.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "不值得",
+    "back": "It's not worth it.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "Not at all",
+    "back": "not a bit.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "work harder",
+    "back": "you should go the extra mile.\nStep up your game.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "我被你说服了",
+    "back": "You sold me! I want to buy this.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "对这个问题没兴趣",
+    "back": "I couldn't care less.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "easy decision",
+    "back": "this is a no-brainer",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "done something wrong",
+    "back": "I screwed up!",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "要走了",
+    "back": "I'd better be going.  I'd best be off.\n-\n-",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "don't know who will read this",
+    "back": "To whom it may concern",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "attach",
+    "back": "Please find attached",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "cc",
+    "back": "I am cc'ing Dimitry here, because he did all of our financials.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "to give the green light",
+    "back": "I was given the green light to carry out this project.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "deadline",
+    "back": "set a deadline, meet the deadline",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "schedule",
+    "back": "behind schedule, ahead of schedule",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "budget",
+    "back": "stay on budget\ngo over budget",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "sign off on something",
+    "back": "I need my boss to sign off on the project.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "catch up",
+    "back": "play catching up",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "ahead of the curve",
+    "back": "Every entrepreneur should always be ahead of the curve.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "A ballpark figure",
+    "back": "We can later go to a more detailed valuation, but right now we can only give a ballpark figure.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "dominate the market, the biggest player",
+    "back": "to corner the market\nApple corners the market.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "Get in on the ground floor",
+    "back": "who got in on the ground floor, they are now very very rich.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "word of mouth",
+    "back": "Word-of-mouth marketing\nA good word-of-mouth marketing strategy results in new customers at very little cost to your business",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "to play hardball",
+    "back": "Things are getting a little tough. The president has decided to play hardball on this issue.If he wants to play hardball with us, we can play that way, too.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "have to deny something, not my decision",
+    "back": "my hands are tied.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "目标用户",
+    "back": "target demographic/end user",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "ROI",
+    "back": "return on investment",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "白手起家",
+    "back": "I built this company from the ground up.\n-",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "得意忘形",
+    "back": "I shouldn't have behaved like that. I just got carried away.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "题外话",
+    "back": "You are drifting off-topic (adv) I went off-topic.\nHis second comment is entirely off-topic (adj)",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "转移话题，difficult conversation",
+    "back": "Do not derail the conversation.\nWho called you so late last night? It's not a big deal. Don't derail the conversation,! Answer me!",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "unnecessarily prolong something",
+    "back": "drag out\nHe dragged out the process of serving them.\nThe story **dragged on**, because he **dragged it out**",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "continue at tedious and unnecessary length",
+    "back": "this dispute between the two families dragged on for years.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "顺便提及",
+    "back": "Let's slip in the stock market.\nWe are gonna slip in how safe carbon capture is.\nI'll touchbase with you on that first thing tomorrow.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "在位期间",
+    "back": "We are devastated that this happened on our watch.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "taking too much risk",
+    "back": "you are pushing your luck.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "清醒点",
+    "back": "get real\nbe realistic.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "说了很多，干起来",
+    "back": "let's get down to business.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "向你请教",
+    "back": "I'd like to pick your brain on your marketing strategy.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "一下子想不起来Cannot give the answer straight away",
+    "back": "I don't know off the top my head.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "不让人放松",
+    "back": "keep them on their toes.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "一分钱一分货",
+    "back": "You get what you pay for.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "跟不上节奏，太多事情干了",
+    "back": "I can't keep up.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "站在我角度想",
+    "back": "put yourself in my shoes.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "overloaded",
+    "back": "I have a lot on my plate.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "stopping being so rude",
+    "back": "give me a break.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "不要对自己太狠了",
+    "back": "stop being so hard on yourself",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "好久没和他们联系了",
+    "back": "I haven't kept in touch with them.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "不要轻易评判",
+    "back": "don't be so quick to judgement.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "感觉不妙",
+    "back": "I have a bad feeling about this.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "腾出时间",
+    "back": "I will make time for yoga tomorrow.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "我乔一乔",
+    "back": "Let me see how I can move some things around.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "on hold",
+    "back": "Can I put you on hold?",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "no control over the situation",
+    "back": "It's out of my hands.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "just doing enough to survive",
+    "back": "Keep my head above water.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "too much",
+    "back": "You went too far.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "过奖了",
+    "back": "I'm flattered.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "sick",
+    "back": "I'm feeling under the weather",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "请坐下",
+    "back": "please have a seat.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "spending too much money",
+    "back": "living beyond your means.\nI live well within my means.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "我要离开了",
+    "back": "please excuse us",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "做好多事情",
+    "back": "you are all over the place.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "something is wrong",
+    "back": "I think there must be some kind of mistake",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "别耍我",
+    "back": "don't play dumb with me.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "be focused on what's going on",
+    "back": "Get your head in the game.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "has everything",
+    "back": "living the dream.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "时间不多了",
+    "back": "we're short on time.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "no",
+    "back": "I think I'll pass.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "你做到了",
+    "back": "so glad you can make it.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "医生不在，留言",
+    "back": "They are out of the office right now. (they are not available at the moment) can I get a message?",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "别逼我",
+    "back": "don't push me",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "minor inconveniences or difficulties",
+    "back": "how disappointing. This loaf of bread has already gone stale, how disappointing.\nIt's unfortunate.\nIt wasn't ideal.\nIt's discouraging.\nThat sucks.\nAw, man!\nThat's a bummer.\nOh, come on. Seriously?\nYou've gotta be kidding me.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "设想一种情况",
+    "back": "Let's imagine a situation.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "Seriously difficult situations",
+    "back": "That's too bad.\nThat's a shame.\nIt's such a pity.\nThat's awful.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "Extremely serious situations",
+    "back": "It's devastating.\nI'm sorry to hear that.\nI can't imagine, it must be really tough for you right now.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "overplay",
+    "back": "overplay one's hand\nshe chose to overplay her hand and lost the sympathy of those who could have saved her\nPutin may have overplayed his hand by invading Ukraine.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "哄娃睡觉",
+    "back": "put my daughter to sleep",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "once you've done that,",
+    "back": "lastly finally, in the end, at the end of the day. to start off with",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "mean",
+    "back": "what I meant was, ...  (clarify what you previously said)\nWhat I mean is ...\nOh, I meant that I was going to be 30 minutes late. Traffic is awful.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "The thing is",
+    "back": "The thing is, I miss my old coworkers.  (let me put it this way)",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "I notice that",
+    "back": "coach",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "someone tells you about changing plans",
+    "back": "Don't worry about it.\nno worries\nNo problem.\nNo biggie\nThings happen.\nThings come up. (unexpected)",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "Someone tells you something surprising",
+    "back": "What?\nNo way!\nWoah, really?\nHow do you feel about that?",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "Someone invites you somewhere",
+    "back": "I hate to miss out, but I am really tired today.\nI'd love to, but...\nSure, sounds good (to me).\nI get off (of work) at 2, but I can get there by 2:30.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "You want to tell or ask someone something briefly.",
+    "back": "Hey, can I tell(ask) you something really quick?\nHow'd it go?\nHow'd the interview go?  (quick small conversation)\nHow'd your weekend go? How'd your vacation go?",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "wishing someone well",
+    "back": "Have a good ..!\nFingers crossed!\nHope your interview goes well!\nYou got this!\nDon't sweat it.\n-\n-\n-\n-\n-",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "aim",
+    "back": "aim for something smaller and measurable.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "effort",
+    "back": "It takes effort.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "off the charts",
+    "back": "her enthusiasm was off the charts.\nOur heating bill was off the charts last month.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "to crash somewhere",
+    "back": "If you need somewhere to stay, feel free to crash at my house.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "You can't go wrong with",
+    "back": "You can't go wrong with salmon.\nYou can't go wrong with a beach vacation.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "to make it work",
+    "back": "to succeed despite difficulty.\nWe made it work.\nHaving a long distance relationship is tough, but we'll make it work.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "Where on earth",
+    "back": "a shocked statement.\nWhere on earth did you hear that?\nWhere on earth did this package come from?",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "Some may argue that",
+    "back": "Some may argue that the stuffing is better than the turkey.\nActually it's your. haha",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "handle",
+    "back": "My body can't handle the stress.\nSome people just can't handle vegas.\nHaving a newborn and a toddler is hard to handle.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "to get into something",
+    "back": "to become interested in an activity.\nWhen did you get into rock music?\nIt's easy to get into soccer.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "Peace of mind",
+    "back": "He wants to get a security system for peace of mind.\nYou want to call her for peace of mind.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "outright",
+    "back": "completely, immediately\nWe paid for our car outright.\nHe outright dismissed my idea.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "To check all of the boxes",
+    "back": "a figurative checklist\nIt checked all the boxes of a regretful purchase.\nI married her because she checked all the boxes.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "Worth it",
+    "back": "Tea at Starbucks is never worth it.\nIt was worth it.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "To sweat something",
+    "back": "to feel stress\nI never sweat a small purchase.\nDon't sweat it.\nI would never sweat a purchase like that.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "iffy",
+    "back": "questionable, uncertain\nBuying clothes online can be iffy.\nHe might cancel his Netflix account because his finances are iffy.\nThe weather is kind of iffy today, let's go on our hike tomorrow.\n-\n-\n-\n-\n-",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "kick off",
+    "back": "We are going to kick off a new project this year.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "put",
+    "back": "to use words to express something. express.\nHow should I put this?\nYou're putting it quite simply.\nLet me put it this way, I probably should have stayed at my old job.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "put aside",
+    "back": "Put aside your worries and relax for a day!\nI put my phone aside and tried to focus on my work.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "carry",
+    "back": "Some people carry diseases they don't know about.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "to carry over",
+    "back": "to continue into the next period.\nUnused data will carry over into the next month.\nMy airline miles carried over into this year.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "catch",
+    "back": "to be held or stuck to something\nMy jacket got caught on the door.\nI caught my hair on the hook.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "catch someone's eye",
+    "back": "That sale caught my eye.\nAn advertisement for a wine party caught his eye.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "Pales in comparison with",
+    "back": "The afternoon meal paled in comparison with the feast they had later.\nLast year's losses pale by comparison with this year's.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "orders of magnitude",
+    "back": "the new problems were of a different order of magnitude.\nThe country's debt this year will be of the same order of magnitude as it was last year.\nProcessing speeds exceed those of five years ago by several orders of magnitude.\n-",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "turn out",
+    "back": "our event turned out great!",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "break down",
+    "back": "let's break down the grammar of this sentence.\na statistical breakdown of data\na budget breakdown\nbreak down the work into more manageable chunks so that they get feedback earlier",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "break out",
+    "back": "The First World War broke out in Europe in 1914\n-\n-\n-",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "花里胡哨",
+    "back": "the bells and whistles.\nWhy do we need anything with bells and whistles?\nWhen you want the classic margarita with no bells and whistles, this is the recipe.\nYou don't need all the bells and whistles of the iPad pro.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "add up",
+    "back": "Her story didn't add up. I think she's lying.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "来吧！",
+    "back": "Yeah, bring it on!",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "to help or contribute money or energy",
+    "back": "chip in\nI couldn't go to the party, but I still wanted to chip in for a gift.\nMy son likes to chip in and help me with the garden",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "to close completely or forever",
+    "back": "Close down.\nDuring the pandemic, a lot of restaurants closed down.\nBecause of the construction, they closed down two lanes of the highway.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "to consume less of something",
+    "back": "cut back.\nI'm trying to cut back on fried food, but it's so tasty!\nWhy aren't you eating ice cream? I'm trying to cut back.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "to end abruptly usually driving or speaking",
+    "back": "cut off\nThe driver in the red car cut me off and almost caused a wreck.\nHe tried to tell the teacher his excuse, but she cut him off mid-sentence.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "to eventually decide or reach something",
+    "back": "end up\nWe ended up just ordering pizza and not going to the fancy restaurant.\nHe doesn't want to end up like his father.\nWhat does him end up with?",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "to write info on a form",
+    "back": "fill out\nCan you please fill out these forms?",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "to learn something you didn't know before",
+    "back": "to find out\nIn the next episode, we will find out who the mysterious man is!",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "to have friendly relationship with someone",
+    "back": "get along with\nMy neighbors and I get along well.\nI get along with my neighbors really well.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "to delay doing something",
+    "back": "get around\nI'll get around to that later.\nOne day I'll get around to cleaning the garage, but not today.\nI finally got around to cleaning the garage.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "to get revenge on someone",
+    "back": "to get back at\nMy sister took my shoes to get back at me for taking her sweater.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "to pause a conversation",
+    "back": "hang on\nCan you hang on for just a sec while I check this message?\nHang (hold) on, you did what?",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "to continue doing something",
+    "back": "to keep on\nIf you keep on practicing, you'll get better.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "to research",
+    "back": "to look up.\nI looked it up.\nI looked it up in the dictionary.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "to steer the vehicle to the side of the road and stop",
+    "back": "to pull over\nWhen I saw police lights behind me, I pulled over.\nI got pulled over on my way to the party.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "to postpone something",
+    "back": "to put off\nI can't put it off for any longer.\nI put off writing the proposal for too long. It's time to start today.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "to tolerate something or someone",
+    "back": "to put up with\nMy wife puts up with my terrible singing.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "to have nothing left",
+    "back": "to run out (of)\nThere's no more milk? Sorry, we ran out yesterday.\nWe ran out of milk and eggs yesterday, so I need to go to the store.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "to consider something seriously",
+    "back": "to think over\nThink it over.\nIt's a good idea to think over big purchases before you buy them.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "to refuse something or someone",
+    "back": "to turn down.\nI was so full from dinner that I had to turn down dessert.\nShe turned me down.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "to fade away",
+    "back": "to wear off\nThe energy from my morning tea starts to wear off around noon.\nThe marker is starting to wear off.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "wear and tear",
+    "back": "The wear and tear on the nursing profession is obvious.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "An expression used to interrupt someone mid-speech and indicate that one's attention is being or about to be diverted.",
+    "back": "Sorry, Janet, hold that thought—I'm getting a call on the other line.\n-",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "rule of thumb",
+    "back": "Texting your friend before you go to his house is a good rule of thumb.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "bite the bullet",
+    "back": "I hate calling my insurance company, but sometimes I just have to bite the bullet and do it.\nYou just have to bite the bullet.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "A blessing in disguise",
+    "back": "Covid lockdowns were kind of a blessing in disguise for some people.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "Silver lining",
+    "back": "We might try to find the silver lining here that people got to spend more time with their family.\nIf there's a silver lining to the news that foodborne illness is on the rise, it's that greater consumer awareness can help improve the safety of our food supply in the long run.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "break the bank",
+    "back": "Taking some online courses doesn't break the bank.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "draw a/the line",
+    "back": "There are a lot of ways to raise a child, but most people draw the line at violence.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "go the extra mile",
+    "back": "My neighbors went the extra mile and picked up my trash when a raccoon made a mess.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "Make a long story short",
+    "back": "To make a long story short, we became friends, we dated for 5 years, and then we got married.\n-\n-",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "bring up",
+    "back": "There is something I want to bring up.\nI will bring it up at our next team meeting.\nI will raise it at our next team meeting.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "get across",
+    "back": "Am I getting the message across clearly?\nI'm trying to get my point across.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "let on",
+    "back": "Don't let on that you know the news. I haven't mentioned it to Jess yet.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "jump in",
+    "back": "Do you mind if I jump in here? I got something to share.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "说漏嘴",
+    "back": "blurt out\nI'm so sorry! I just blurted it out.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "把天聊死了",
+    "back": "dry up\nSteve is a nice enough guy. But our conversations always dry up after a minute or two.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "get through to",
+    "back": "I'm trying to get through, but there's no answer. （打通）\nIt's difficult to get the message through to my team because we all work remotely. (传达)",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "把话唠开了",
+    "back": "talk over\nI know you're upset; let's talk it over tonight when you get home.\nWe need to talk over what happened this morning.\nan issue, a plan.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "压制你的声量",
+    "back": "talk over sb.\nI don't mean to talk over you, but we have already made the decision.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "让人转意",
+    "back": "talk around\nI didn't want to go, but he succeeded in talking me around.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "毙了",
+    "back": "shut down\nIt was kind of awkward. She just shut him down mid-sentence.\nMy boss didn't like the suggestion. He shut me down straight away.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "back sb. up",
+    "back": "Thanks for backing me up during the meeting.\nI hope my colleagues back me up because otherwise, my boss may not believe me.\n-\n-",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "Ask for opinion",
+    "back": "Do you agree?\nWhat do you say?\nI'd like to hear your thoughts on...\nWould you like to add anything?",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "interrupt",
+    "back": "Excuse me.\nSorry to interrupt but I just need to share something with you.\nSorry, May I interrupt you for just a moment?\nIf I may interrupt for a minute, I'd like to share something with you.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "to go off topic . to get back on track",
+    "back": "So anyway, getting back to my story...\nAs I was saying\nso anyway, where were we? Ah, yes... You were talking about apples!",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "I think I understand, but I need to double check.",
+    "back": "Do you mean that...?\nI'd like to confirm what you said...\nI’d just like to confirm that I got that right.\nExcuse me, can I just confirm that...",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "Agree",
+    "back": "Yes! Absolutely!\nI completely agree with you.\nI couldn't agree more!",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "somewhat disagree",
+    "back": "I see what you mean, but...\nI understand your point of view, but..\nI can see where you are coming from, but...",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "disagree",
+    "back": "I don't feel the same way.\nactually, I don't quite agree.\nI disagree\nI'm afraid I don't agree with you on that.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "Change the topic",
+    "back": "That reminds me ...\nSpeaking of your holiday to Greece, did I tell you that I've got a trip planned later in the year?\nOh, by the way, did I tell you...\nOh, while I remember...\nBefore  I forget, I got something I want to say.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "Controversial",
+    "back": "I know that my views will not always be the same as everyone else's. But that doesn't mean that you need to avoid it.\nLet's keep the conversation open and positive.\nI know not everyone agrees with me but this is what I think.\nI know this is a contentious issue.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "end a conversation",
+    "back": "Well, I'd best be off! It's been great chatting.\nAnyway, I'd better get back to work.\nI'm so glad I ran into you! It's been great catching up. I'll see you soon.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "encourage",
+    "back": "We encourage anyone interested to apply for an officer position!\n-",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "今天内容很多",
+    "back": "There's lots to go through today.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "这就开始",
+    "back": "let's get into it.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "牢记这个",
+    "back": "this is really important to keep in mind.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "Come over",
+    "back": "Would you like to come over for dinner tomorrow night?\nHe came over last night to pick up the lawn mower.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "break up",
+    "back": "They broke up last month. She's dating someone new now.\nThe policeman broke up the fight before someone got seriously hurt.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "get-together",
+    "back": "Why don't we get together tomorrow?\nI'm planing a casual get-together to celebrate moving in to our new house. Are you free?",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "hear about",
+    "back": "to learn information about someone or something.\nDid you hear about the fight last night?\nI just heard about the accident and I came as fast as I could.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "come down with",
+    "back": "I think I'm coming down with something. I feel awful.\nSarah's come down with the flu so she's not coming in to work today.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "count on",
+    "back": "I'm counting on you to arrive by 7am. Don't be late.\nI can always count on him to be there when I'm feeling down.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "to let down",
+    "back": "Sorry I let you down.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "drop in on",
+    "back": "We'll drop in on Grandma on the way home, to make sure that she is OK.\nSarah said she might drop in sometime this afternoon.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "turn up",
+    "back": "I can't find my wallet, but I'm sure it will turn up somewhere.\nHe lost his house keys a week ago, and he was pleasantly surprised when they turned up in one of his jacket pockets.\nMy cat was gone for two days. Then he just turned up out of nowhere.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "give in",
+    "back": "I told him he shouldn't give in to peer pressure.\nShe really wanted to open a bottle of champagne, but she gave in when everyone else said they want to drink beer.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "fill (someone) in",
+    "back": "to give someone information\nKerry missed the meeting this morning. Can you fill her in on what she missed?\nFill me in on what happened in the movie while I was on the phone.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "hold back",
+    "back": "She held back her opinion because she didn't want to make him angry.\nI really love that dress but I'm going to hold back. I just don't have the money right now.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "drop off",
+    "back": "Can you drop the kids off at school tomorrow morning? I have got a meeting.\nShe drove all the way to my office to drop off my birthday present. It was so nice of her.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "work something out",
+    "back": "to discover a solution to a problem.\nThey used  to argue a lot, but now they've managed to work out their problems.\nI broke this lamp but I don't have the money to fix it. Can we work out another way to pay for the damage?",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "look up to",
+    "back": "I've always looked up to my professor. She always seems so assertive and confident.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "实在不知道如何做它",
+    "back": "I really do not know how to do that.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "我一会儿在搞，可以吗？",
+    "back": "Can I do it later?",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "我打算宅",
+    "back": "I am planning to stay at home.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "再约？",
+    "back": "Can we reschedule this?",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "月底我会有足够时间",
+    "back": "I will have enough time at the end of the month.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "我要事先计划好",
+    "back": "I need to plan this well in advance.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "那天你可以吗",
+    "back": "Are you available on that day?\nAre you free this weekend?",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "我怎么过去",
+    "back": "How can I get there?",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "会场有多远",
+    "back": "How far is this venue?",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "会不会太远了啊",
+    "back": "Is it too far?",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "哪里可以获取更多信息",
+    "back": "Where can I get more information?",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "你绝对不敢相信",
+    "back": "You won't believe this.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "不敢多留你了",
+    "back": "I'd better let you go.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "不知当问不当问",
+    "back": "Do you mind me asking?",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "这个事上，我需要你帮我",
+    "back": "I need your help with this matter.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "有啥推荐的",
+    "back": "What do you recommend?\nDo you have any recommendations?",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "附近有药店吗",
+    "back": "Is there a pharmacy nearby?",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "我知道一个好地方",
+    "back": "I know a good place.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "太堵了",
+    "back": "There is too much traffic.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "还有什么疑问吗？",
+    "back": "Do you have any questions for me?",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "为何离职",
+    "back": "why are you leaving your job?",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "了解我司吗？",
+    "back": "what do you know about this company?",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "我想想再给您回复",
+    "back": "Let me think about it, and I'll get back to you.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "龙体欠安",
+    "back": "I am not feeling well.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "起床",
+    "back": "I get out of bed",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "洗衣服",
+    "back": "I do laundry.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "给手机充电",
+    "back": "I charge the battery on my phone.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "半夜才睡",
+    "back": "I go to sleep around midnight.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "我破产了",
+    "back": "I am broke.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "必须的",
+    "back": "absolutely.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "必然没有/不是",
+    "back": "of course not.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "不确定",
+    "back": "I'm not sure.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "太巧了吧",
+    "back": "What a coincidence!",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "我做个自我介绍",
+    "back": "I would like to introduce myself.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "是你的吗？",
+    "back": "Is this yours?",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "怎么来的",
+    "back": "How do you get there?",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "谁啊",
+    "back": "who is it?",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "不合身，不合适",
+    "back": "It doesn't fit.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "有品位",
+    "back": "You have good taste.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "你穿这夹克很好看",
+    "back": "That jacket looks nice on you.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "我猜是吧",
+    "back": "I guess so.",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "可以刷卡吗？",
+    "back": "Do you take credit card?",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "我这会儿有一大堆事情",
+    "back": "I just have too much stuff going on right now.\n-\n-\n-",
+    "tags": [
+      "Daily Document"
+    ]
+  },
+  {
+    "front": "at",
+    "back": "specific places, points in space. address, events",
+    "tags": [
+      "In On At By"
+    ]
+  },
+  {
+    "front": "in",
+    "back": "border, edge, container, buildings, rooms, area, regions, cities. Group of people. liquids.",
+    "tags": [
+      "In On At By"
+    ]
+  },
+  {
+    "front": "on",
+    "back": "surfaces (walls/tables), streets, roads, rivers",
+    "tags": [
+      "In On At By"
+    ]
+  },
+  {
+    "front": "by",
+    "back": "next, beside, near",
+    "tags": [
+      "In On At By"
+    ]
+  },
+  {
+    "front": "() the morning",
+    "back": "in",
+    "tags": [
+      "In On At By"
+    ]
+  },
+  {
+    "front": "() the evening",
+    "back": "in",
+    "tags": [
+      "In On At By"
+    ]
+  },
+  {
+    "front": "() night",
+    "back": "at",
+    "tags": [
+      "In On At By"
+    ]
+  },
+  {
+    "front": "it depends ()",
+    "back": "on",
+    "tags": [
+      "In On At By"
+    ]
+  },
+  {
+    "front": "He's keen () football",
+    "back": "on",
+    "tags": [
+      "In On At By"
+    ]
+  },
+  {
+    "front": "I've got the key () my pocket",
+    "back": "in",
+    "tags": [
+      "In On At By"
+    ]
+  },
+  {
+    "front": "there is nothing left () my cup.",
+    "back": "in",
+    "tags": [
+      "In On At By"
+    ]
+  },
+  {
+    "front": "She left it () the top draw.",
+    "back": "in",
+    "tags": [
+      "In On At By"
+    ]
+  },
+  {
+    "front": "I am () the car.",
+    "back": "in",
+    "tags": [
+      "In On At By"
+    ]
+  },
+  {
+    "front": "I’m () the bus/train.",
+    "back": "on",
+    "tags": [
+      "In On At By"
+    ]
+  },
+  {
+    "front": "Can you take a seat () the waiting room please?",
+    "back": "in",
+    "tags": [
+      "In On At By"
+    ]
+  },
+  {
+    "front": "I’ve left my bag () your office.",
+    "back": "in",
+    "tags": [
+      "In On At By"
+    ]
+  },
+  {
+    "front": "Why don’t we have a picnic () the park?",
+    "back": "in",
+    "tags": [
+      "In On At By"
+    ]
+  },
+  {
+    "front": "I’m filming this video () Spain.",
+    "back": "in",
+    "tags": [
+      "In On At By"
+    ]
+  },
+  {
+    "front": "I grew up () Melbourne.",
+    "back": "in",
+    "tags": [
+      "In On At By"
+    ]
+  },
+  {
+    "front": "Rigolisa is a small village () the mountains.",
+    "back": "in",
+    "tags": [
+      "In On At By"
+    ]
+  },
+  {
+    "front": "We are going for a drive () the country.",
+    "back": "in",
+    "tags": [
+      "In On At By"
+    ]
+  },
+  {
+    "front": "Lots of people were swimming () the lake.",
+    "back": "in",
+    "tags": [
+      "In On At By"
+    ]
+  },
+  {
+    "front": "She works () the finance team.",
+    "back": "in",
+    "tags": [
+      "In On At By"
+    ]
+  },
+  {
+    "front": "He’s got selected to play () the national team.",
+    "back": "in",
+    "tags": [
+      "In On At By"
+    ]
+  },
+  {
+    "front": "He’s () the board.",
+    "back": "on",
+    "tags": [
+      "In On At By"
+    ]
+  },
+  {
+    "front": "They’re () the committee.",
+    "back": "on",
+    "tags": [
+      "In On At By"
+    ]
+  },
+  {
+    "front": "Careful! There’s a lot of chili () that sauce.",
+    "back": "in",
+    "tags": [
+      "In On At By"
+    ]
+  },
+  {
+    "front": "There’s a lot of sugar () soft drinks.",
+    "back": "in",
+    "tags": [
+      "In On At By"
+    ]
+  },
+  {
+    "front": "Do you have milk () your coffee?",
+    "back": "in",
+    "tags": [
+      "In On At By"
+    ]
+  },
+  {
+    "front": "My phone is () the table.",
+    "back": "on",
+    "tags": [
+      "In On At By"
+    ]
+  },
+  {
+    "front": "You can see a painting () the wall behind me.",
+    "back": "on",
+    "tags": [
+      "In On At By"
+    ]
+  },
+  {
+    "front": "We live () the fourth floor.",
+    "back": "on",
+    "tags": [
+      "In On At By"
+    ]
+  },
+  {
+    "front": "Can you write it () that piece of paper.",
+    "back": "on",
+    "tags": [
+      "In On At By"
+    ]
+  },
+  {
+    "front": "He’s spilled ice-cream () his new jumper.",
+    "back": "on",
+    "tags": [
+      "In On At By"
+    ]
+  },
+  {
+    "front": "The supermarket is () the corner of Martin street.",
+    "back": "on",
+    "tags": [
+      "In On At By"
+    ]
+  },
+  {
+    "front": "Nice is () the south coast of France.",
+    "back": "on",
+    "tags": [
+      "In On At By"
+    ]
+  },
+  {
+    "front": "The museum is () the south side of the city.",
+    "back": "on",
+    "tags": [
+      "In On At By"
+    ]
+  },
+  {
+    "front": "Nice is () the south of France.",
+    "back": "in",
+    "tags": [
+      "In On At By"
+    ]
+  },
+  {
+    "front": "Your seat is () the left side.",
+    "back": "on",
+    "tags": [
+      "In On At By"
+    ]
+  },
+  {
+    "front": "What’s that () the water?",
+    "back": "on",
+    "tags": [
+      "In On At By"
+    ]
+  },
+  {
+    "front": "We’ll take you out () the lake.",
+    "back": "on",
+    "tags": [
+      "In On At By"
+    ]
+  },
+  {
+    "front": "Sarah’s still () school",
+    "back": "at",
+    "tags": [
+      "In On At By"
+    ]
+  },
+  {
+    "front": "I’ll meet you () the bus stop.",
+    "back": "at",
+    "tags": [
+      "In On At By"
+    ]
+  },
+  {
+    "front": "Turn left () the traffic light.",
+    "back": "at",
+    "tags": [
+      "In On At By"
+    ]
+  },
+  {
+    "front": "I studied design () college/school/university.",
+    "back": "at",
+    "tags": [
+      "In On At By"
+    ]
+  },
+  {
+    "front": "Let’s meet () the station.",
+    "back": "at",
+    "tags": [
+      "In On At By"
+    ]
+  },
+  {
+    "front": "We have to stop () the supermarket on the way home.",
+    "back": "at",
+    "tags": [
+      "In On At By"
+    ]
+  },
+  {
+    "front": "There was a crazy guy () the library today.",
+    "back": "at",
+    "tags": [
+      "In On At By"
+    ]
+  },
+  {
+    "front": "They live () 14, Eagle road.",
+    "back": "at",
+    "tags": [
+      "In On At By"
+    ]
+  },
+  {
+    "front": "I’ll meet you () the corner of Beach street and Park road.",
+    "back": "at",
+    "tags": [
+      "In On At By"
+    ]
+  },
+  {
+    "front": "I had a coffee () Helen’s house.",
+    "back": "at",
+    "tags": [
+      "In On At By"
+    ]
+  },
+  {
+    "front": "I was () meetings all day.",
+    "back": "in",
+    "tags": [
+      "In On At By"
+    ]
+  },
+  {
+    "front": "We met () a party.",
+    "back": "at",
+    "tags": [
+      "In On At By"
+    ]
+  },
+  {
+    "front": "He’s speaking () the conference later this week.",
+    "back": "at",
+    "tags": [
+      "In On At By"
+    ]
+  },
+  {
+    "front": "Write it : () the paper; () your notebook, () the top of the page, () the corner of the page.",
+    "back": "on, in, at, in",
+    "tags": [
+      "In On At By"
+    ]
+  },
+  {
+    "front": "I think they are () the beach. (location, place)",
+    "back": "at",
+    "tags": [
+      "In On At By"
+    ]
+  },
+  {
+    "front": "I think they are () the beach. (sand)",
+    "back": "on",
+    "tags": [
+      "In On At By"
+    ]
+  },
+  {
+    "front": "I’m waiting () the car.",
+    "back": "by",
+    "tags": [
+      "In On At By"
+    ]
+  },
+  {
+    "front": "Put your bag () the door and sit down.",
+    "back": "by\n-\n-",
+    "tags": [
+      "In On At By"
+    ]
+  },
+  {
+    "front": "What have you been up to?",
+    "back": "I've been busy/working.",
+    "tags": [
+      "Life"
+    ]
+  },
+  {
+    "front": "这个叫什么",
+    "back": "What do you call this?",
+    "tags": [
+      "Life"
+    ]
+  },
+  {
+    "front": "我要这个衬衫",
+    "back": "Can I have that shirt, please?\nCan I have 200 grams of the beef, please?",
+    "tags": [
+      "Life"
+    ]
+  },
+  {
+    "front": "怎么弄？",
+    "back": "How do I use the computer?\nHow do I turn on the car?",
+    "tags": [
+      "Life"
+    ]
+  },
+  {
+    "front": "开到几点？",
+    "back": "how late do you open?\nWhen do you close?",
+    "tags": [
+      "Life"
+    ]
+  },
+  {
+    "front": "啥安排？",
+    "back": "do you have any plan for the weekend? for dinner",
+    "tags": [
+      "Life"
+    ]
+  },
+  {
+    "front": "痛",
+    "back": "my arm hurts, my back hurts.",
+    "tags": [
+      "Life"
+    ]
+  },
+  {
+    "front": "啥？",
+    "back": "what did you say? (I couldn't catch it)\nWhat does that mean?",
+    "tags": [
+      "Life"
+    ]
+  },
+  {
+    "front": "Errand",
+    "back": "I need to go to the bank.",
+    "tags": [
+      "Life"
+    ]
+  },
+  {
+    "front": "咋样了",
+    "back": "how are things?",
+    "tags": [
+      "Life"
+    ]
+  },
+  {
+    "front": "久仰大名",
+    "back": "I've heard a lot about you.",
+    "tags": [
+      "Life"
+    ]
+  },
+  {
+    "front": "终于当面见到你了，太棒了",
+    "back": "It's great to finally meet you in person.",
+    "tags": [
+      "Life"
+    ]
+  },
+  {
+    "front": "好人卡",
+    "back": "It's very kind of you.\nThat was so thoughtful of you.",
+    "tags": [
+      "Life"
+    ]
+  },
+  {
+    "front": "不听老人言，吃亏在眼前",
+    "back": "I told you so.",
+    "tags": [
+      "Life"
+    ]
+  },
+  {
+    "front": "转左",
+    "back": "Turn left at the second traffic right.\nTurn right at the first intersection.",
+    "tags": [
+      "Life"
+    ]
+  },
+  {
+    "front": "要多久啊？",
+    "back": "How long will it take?",
+    "tags": [
+      "Life"
+    ]
+  },
+  {
+    "front": "太客气了，太见外了",
+    "back": "You shouldn't have.",
+    "tags": [
+      "Life"
+    ]
+  },
+  {
+    "front": "去过美国吗？",
+    "back": "Have you been to the states?",
+    "tags": [
+      "Life"
+    ]
+  },
+  {
+    "front": "你的工作？",
+    "back": "what do you do?\nI work for Google. I work at a hospital. I work at a law firm.\nHow interesting. That must be exciting.",
+    "tags": [
+      "Life"
+    ]
+  },
+  {
+    "front": "你平常干啥",
+    "back": "what do you do in your free time.\nI like to watch movies. I like watching movies. I really like to play golf. I kind of like playing golf.\nI like hanging out with my friends and stuff like that.",
+    "tags": [
+      "Life"
+    ]
+  },
+  {
+    "front": "找不到回宾馆的路",
+    "back": "I can't find the way back to my hotel.",
+    "tags": [
+      "Life"
+    ]
+  },
+  {
+    "front": "to keep an eye out",
+    "back": "Please keep an eye out for our next episode (the email)",
+    "tags": [
+      "Life"
+    ]
+  },
+  {
+    "front": "wrap",
+    "back": "to wrap your head around something. often in a negative form\nI can't wrap my head around why he made this decision.",
+    "tags": [
+      "Life"
+    ]
+  },
+  {
+    "front": "I don't like it",
+    "back": "not my cup of tea",
+    "tags": [
+      "Life"
+    ]
+  },
+  {
+    "front": "not able to decide something",
+    "back": "on the fence (about sth)\nI am on the fence which job I should take. which place I should move to",
+    "tags": [
+      "Life"
+    ]
+  },
+  {
+    "front": "深层含义",
+    "back": "to read between the lines\nLet's read between the lines here. The party host wants us to leave.",
+    "tags": [
+      "Life"
+    ]
+  },
+  {
+    "front": "好久不见",
+    "back": "I haven't seen you for ages.",
+    "tags": [
+      "Life"
+    ]
+  },
+  {
+    "front": "看了新闻了吗？",
+    "back": "Did you catch the news today?",
+    "tags": [
+      "Life"
+    ]
+  },
+  {
+    "front": "天气",
+    "back": "It's been raining all day. Is it hot in the summer? What's the weather like in winter? There will be thunderstorms in the afternoon. There will be heavy rain in the evening.",
+    "tags": [
+      "Life"
+    ]
+  },
+  {
+    "front": "不是很想去",
+    "back": "I don't feel like going.",
+    "tags": [
+      "Life"
+    ]
+  },
+  {
+    "front": "等了很久了吗？",
+    "back": "Have you been waiting long?",
+    "tags": [
+      "Life"
+    ]
+  },
+  {
+    "front": "有你真好",
+    "back": "It's good to have you here!",
+    "tags": [
+      "Life"
+    ]
+  },
+  {
+    "front": "不能忍受这个",
+    "back": "I can't stand this.",
+    "tags": [
+      "Life"
+    ]
+  },
+  {
+    "front": "不能说错，但是听上去不太对劲",
+    "back": "It's a way less common way of saying that. It's not completely incorrect, but it certainly doesn't sound right.",
+    "tags": [
+      "Life"
+    ]
+  },
+  {
+    "front": "一会儿再来",
+    "back": "I'll try back later.",
+    "tags": [
+      "Life"
+    ]
+  },
+  {
+    "front": "六月请一周假",
+    "back": "I'd like to request a week off in June.",
+    "tags": [
+      "Life"
+    ]
+  },
+  {
+    "front": "有啥新情况",
+    "back": "So what's new?",
+    "tags": [
+      "Life"
+    ]
+  },
+  {
+    "front": "你做过这个没有？",
+    "back": "Have you done this before?",
+    "tags": [
+      "Life"
+    ]
+  },
+  {
+    "front": "五人桌",
+    "back": "A table for five.",
+    "tags": [
+      "Life"
+    ]
+  },
+  {
+    "front": "我们朋友已经坐下了",
+    "back": "We are meeting someone.",
+    "tags": [
+      "Life"
+    ]
+  },
+  {
+    "front": "30分钟之内就结束",
+    "back": "It ends in thirty minutes.",
+    "tags": [
+      "Life"
+    ]
+  },
+  {
+    "front": "其中有误解",
+    "back": "There's been a misunderstanding.",
+    "tags": [
+      "Life"
+    ]
+  },
+  {
+    "front": "我百分百确定",
+    "back": "I am 100% certain.",
+    "tags": [
+      "Life"
+    ]
+  },
+  {
+    "front": "没时间搞这个",
+    "back": "I don't have time for this.",
+    "tags": [
+      "Life"
+    ]
+  },
+  {
+    "front": "我来公干",
+    "back": "I'm here on business. I went to New York on business",
+    "tags": [
+      "Life"
+    ]
+  },
+  {
+    "front": "来过这吗？",
+    "back": "Have you ever been here before?",
+    "tags": [
+      "Life"
+    ]
+  },
+  {
+    "front": "有何不妥",
+    "back": "Is there something wrong?",
+    "tags": [
+      "Life"
+    ]
+  },
+  {
+    "front": "让你决定",
+    "back": "I'll leave it up to you.",
+    "tags": [
+      "Life"
+    ]
+  },
+  {
+    "front": "忍无可忍",
+    "back": "I can't take anymore.",
+    "tags": [
+      "Life"
+    ]
+  },
+  {
+    "front": "该账户有年费吗?",
+    "back": "Are there any annual charges with this account?",
+    "tags": [
+      "Life"
+    ]
+  },
+  {
+    "front": "这个来一个。",
+    "back": "I'll take one of this.",
+    "tags": [
+      "Life"
+    ]
+  },
+  {
+    "front": "走起？",
+    "back": "Ready to start?",
+    "tags": [
+      "Life"
+    ]
+  },
+  {
+    "front": "您什么时候方便？",
+    "back": "What is a good time for you?",
+    "tags": [
+      "Life"
+    ]
+  },
+  {
+    "front": "抱歉让您久等了",
+    "back": "Sorry to keep you waiting.",
+    "tags": [
+      "Life"
+    ]
+  },
+  {
+    "front": "什么风把你吹来了",
+    "back": "What brings you here?",
+    "tags": [
+      "Life"
+    ]
+  },
+  {
+    "front": "就当自己家",
+    "back": "Make yourself at home",
+    "tags": [
+      "Life"
+    ]
+  },
+  {
+    "front": "天真好",
+    "back": "Nice day outside, isn't it?",
+    "tags": [
+      "Life"
+    ]
+  },
+  {
+    "front": "to defeat or check (someone) by confusing or puzzling **:** to confuse or frustrate completely",
+    "back": "baffled",
+    "tags": [
+      "Vacab"
+    ]
+  },
+  {
+    "front": "蓬",
+    "back": "cannopy",
+    "tags": [
+      "Vacab"
+    ]
+  },
+  {
+    "front": "to devise a [strategy](x-mw://lookup/strategy/1) or course of action",
+    "back": "strategize",
+    "tags": [
+      "Vacab"
+    ]
+  },
+  {
+    "front": "A distinctive feeling or quality capable of being sensed",
+    "back": "vibe. This place has a good vibe",
+    "tags": [
+      "Vacab"
+    ]
+  },
+  {
+    "front": "打脸",
+    "back": "a slap in the face",
+    "tags": [
+      "Vacab"
+    ]
+  },
+  {
+    "front": "令人不安的 unsettled confused",
+    "back": "disconcerting.  Disconcerted",
+    "tags": [
+      "Vacab"
+    ]
+  },
+  {
+    "front": "挑剔的",
+    "back": "discerning",
+    "tags": [
+      "Vacab"
+    ]
+  },
+  {
+    "front": "有气氛的",
+    "back": "atmospheric /ˌatməsˈfirik/",
+    "tags": [
+      "Vacab"
+    ]
+  },
+  {
+    "front": "slack",
+    "back": "We should have about 20% slack in our estimates.\n-",
+    "tags": [
+      "Vacab"
+    ]
+  },
+  {
+    "front": "Check in",
+    "back": "Check in about sth with sb\nDo you have time to check in about this later?\nWhat time should we check in about the project?\nWhen can I check in about this with you?",
+    "tags": [
+      "Work related"
+    ]
+  },
+  {
+    "front": "Go over / Go through",
+    "back": "I would like to go over the draft with you.",
+    "tags": [
+      "Work related"
+    ]
+  },
+  {
+    "front": "Clock in Clock out",
+    "back": "When did I clock out yesterday?",
+    "tags": [
+      "Work related"
+    ]
+  },
+  {
+    "front": "Start up",
+    "back": "Start up a new project\nIt is big in the news these days.",
+    "tags": [
+      "Work related"
+    ]
+  },
+  {
+    "front": "Discretion",
+    "back": "At your discretion\nIt’s up to local authorities to use their discretion in setting the charges.\nShe knew she could rely on his discretion.\nYou can cancel the service at your own discretion.",
+    "tags": [
+      "Work related"
+    ]
+  },
+  {
+    "front": "Pros and cons",
+    "back": "Weighing the pros and cons of the solution",
+    "tags": [
+      "Work related"
+    ]
+  },
+  {
+    "front": "Stay vigilant",
+    "back": "Please remain vigilant and report anything suspicious.",
+    "tags": [
+      "Work related"
+    ]
+  },
+  {
+    "front": "reckless",
+    "back": "However, in some cases, reckless behavior indicates more than just poor choices or teenage experimentation. It can be a sign of a mental health disorder, such as BPD, trauma, or PTSD.\nIs it reckless for crypto companies to get rich by selling people such a dangerous, risky product?\n\"His reckless risk-taking in the stock market ultimately led to substantial financial losses and regret.\"",
+    "tags": [
+      "Work related"
+    ]
+  },
+  {
+    "front": "together",
+    "back": "Keep it together (淡定)\npull myself together",
+    "tags": [
+      "Work related"
+    ]
+  },
+  {
+    "front": "ship",
+    "back": "That ship has sailed.",
+    "tags": [
+      "Work related"
+    ]
+  },
+  {
+    "front": "Set out",
+    "back": "We need to set out some guidelines for the project.\nWhat does the product set out to do?",
+    "tags": [
+      "Work related"
+    ]
+  },
+  {
+    "front": "Send over",
+    "back": "Please send this over when you have time.\nI will send over the document.\nHey, can you send over the updated file?",
+    "tags": [
+      "Work related"
+    ]
+  },
+  {
+    "front": "clean up / clean out",
+    "back": "clean up my house/office\nI am cleaning out my desk (maybe I am leaving my job)\nI am cleaning out the closet/fridge.",
+    "tags": [
+      "Work related"
+    ]
+  },
+  {
+    "front": "Make up for",
+    "back": "to compensate\nWe need to make up for the mistake that we made last week.  (lost time, lost sales last quarter)",
+    "tags": [
+      "Work related"
+    ]
+  },
+  {
+    "front": "think",
+    "back": "I've been thinking about finding a new job.\nI've been thinking what do you want to do for summer vacation.\nI've been thinking about baking a cake all day.\nHere's a thought. Why don't you take tomorrow off.\nI've thought about this a lot, and I really think you should quit the company.",
+    "tags": [
+      "Work related"
+    ]
+  },
+  {
+    "front": "idea",
+    "back": "I have no idea.\nI have no ideas really. (someone is asking you for suggestions, proposals)",
+    "tags": [
+      "Work related"
+    ]
+  },
+  {
+    "front": "know",
+    "back": "I knew it!",
+    "tags": [
+      "Work related"
+    ]
+  },
+  {
+    "front": "Step up",
+    "back": "I want to step up and do more for the company\nI want to step up to and take on this project (challenge)\nThe new CEO really stepped up on this project",
+    "tags": [
+      "Work related"
+    ]
+  },
+  {
+    "front": "Step down",
+    "back": "The ceo might step down from his position.\nFollowing multiple serious mistakes, the government official stepped down.",
+    "tags": [
+      "Work related"
+    ]
+  },
+  {
+    "front": "Measure up to",
+    "back": "does this measure up to that\nhow does candidate a measure up to candidate B?\nhow does the new plan measure up to our past ideas?",
+    "tags": [
+      "Work related"
+    ]
+  },
+  {
+    "front": "Step aside",
+    "back": "move out of the way\nLet's step aside and have this conversation.\nThe company feels you should step aside.  (move away from this project)",
+    "tags": [
+      "Work related"
+    ]
+  },
+  {
+    "front": "swoop in",
+    "back": "suddenly joins a project/company and make a lot of changes\nA consulting firm might swoop in to a situation.\nThe consultant swooped in and changed around our entire organization.",
+    "tags": [
+      "Work related"
+    ]
+  },
+  {
+    "front": "shake up",
+    "back": "(make a lot of changes at one time) (atmosphere/feeling)\nApple shook up the smartphone industry when it introduced the iphone to the world.\nShe really shook up our department with her innovative ideas.",
+    "tags": [
+      "Work related"
+    ]
+  },
+  {
+    "front": "come online",
+    "back": "A new project comes online.\nOur new service is going to come online at the end of the month.",
+    "tags": [
+      "Work related"
+    ]
+  },
+  {
+    "front": "expand into",
+    "back": "We want to expand into the service industry.\nWe'd like to expand into some other markets.",
+    "tags": [
+      "Work related"
+    ]
+  },
+  {
+    "front": "to bring about",
+    "back": "(to cause something to happen) (to make something happen)\nDon't you think we should try to bring about change in our company?",
+    "tags": [
+      "Work related"
+    ]
+  },
+  {
+    "front": "take on",
+    "back": "(it has the nuance of a challenge or a new responsibility)\nI would like to take on some new project this year.\nI was asked to take on more responsibilities at the office.",
+    "tags": [
+      "Work related"
+    ]
+  },
+  {
+    "front": "Salt",
+    "back": "I’d take it with a grain of salt until I get more details.",
+    "tags": [
+      "Work related"
+    ]
+  },
+  {
+    "front": "continue,  下一点",
+    "back": "let's continue on the part two.\nonto the next one",
+    "tags": [
+      "Work related"
+    ]
+  },
+  {
+    "front": "我还没有写完信",
+    "back": "I haven't finished writing the email.",
+    "tags": [
+      "Work related"
+    ]
+  },
+  {
+    "front": "我还没有交报告",
+    "back": "I haven't submitted the report yet.",
+    "tags": [
+      "Work related"
+    ]
+  },
+  {
+    "front": "鸟瞰",
+    "back": "He gave us the 10,000 foot view of the new factory plan, but it was short on details.",
+    "tags": [
+      "Work related"
+    ]
+  },
+  {
+    "front": "收皮",
+    "back": "I am calling it a day.",
+    "tags": [
+      "Work related"
+    ]
+  },
+  {
+    "front": "下一个",
+    "back": "onto the next one",
+    "tags": [
+      "Work related"
+    ]
+  },
+  {
+    "front": "挑战淬炼",
+    "back": "to play devil's advocate\nI am going to play devil's advocate.",
+    "tags": [
+      "Work related"
+    ]
+  },
+  {
+    "front": "talk about improvements to past actions (often with regret)",
+    "back": "should have\nI should have studied more.\nYou shouldn't have had so much to drink.\nHe should have spoken to her.",
+    "tags": [
+      "Would_Could_Should"
+    ]
+  },
+  {
+    "front": "give and request advice",
+    "back": "should\nYou should find a new apartment.\nHe should get a new job.\nThey should stop smoking.\nWhat should I do?",
+    "tags": [
+      "Would_Could_Should"
+    ]
+  },
+  {
+    "front": "asking permission",
+    "back": "can /may\nCan I take the chair?\nCan I take a day off tomorrow?\nMay I use the bathroom?\nCan I borrow this? Can I sit here? Can I have a blanket?\nCan he call you back? Can I have some milk?\nCan we leave around 6? Can I make a call?\nCan I have a receipt, please? Can I have a bag, please?\nCan I try it on?",
+    "tags": [
+      "Would_Could_Should"
+    ]
+  },
+  {
+    "front": "request",
+    "back": "could\nCould you please help me with my homework?\nCould you please be quiet?",
+    "tags": [
+      "Would_Could_Should"
+    ]
+  },
+  {
+    "front": "express impossibility",
+    "back": "could not\nThat could not be the correct address.\nThat couldn't have been Sara. She's at work.",
+    "tags": [
+      "Would_Could_Should"
+    ]
+  },
+  {
+    "front": "express past ability",
+    "back": "could\nWhen I was little, I could speak Spanish.",
+    "tags": [
+      "Would_Could_Should"
+    ]
+  },
+  {
+    "front": "talk about possible unreal situations in the past",
+    "back": "could have\nIf I had studied harder, I could have passed the exam.\nIf you had sent him a text message, you could have met him for dinner.",
+    "tags": [
+      "Would_Could_Should"
+    ]
+  },
+  {
+    "front": "possible situations in the present",
+    "back": "Could\nWe could see a movie today.\nYou could try a new recipe.\nI think it could be better.",
+    "tags": [
+      "Would_Could_Should"
+    ]
+  },
+  {
+    "front": "Regular actions in the past",
+    "back": "would. (similar to used to)\nWhen I was a kid, I would eat ice-cream everyday.",
+    "tags": [
+      "Would_Could_Should"
+    ]
+  },
+  {
+    "front": "Formal requests",
+    "back": "would\nWould you like some coffee?\nWould you like to dance?\nWhat would you like to drink?",
+    "tags": [
+      "Would_Could_Should"
+    ]
+  },
+  {
+    "front": "used as the past form of will when reporting something",
+    "back": "would\nTom said he would pay for coffee.",
+    "tags": [
+      "Would_Could_Should"
+    ]
+  },
+  {
+    "front": "talk about the future in the past",
+    "back": "would\nWhen I was a kid, I thought I would become a doctor.",
+    "tags": [
+      "Would_Could_Should"
+    ]
+  },
+  {
+    "front": "unreal situations in the past",
+    "back": "would have\nIf I had woken up earlier this morning, I would have been on time for school.\nIf she had become a teacher, she would have taught math.\nIf we hadn't gone, we never would have been able to see this amazing place.\nWould he have had more friends if he hadn't spent all those nights at the office?",
+    "tags": [
+      "Would_Could_Should"
+    ]
+  },
+  {
+    "front": "unreal situations in the present",
+    "back": "would\nIf I were a doctor, I would work at a hospital.\nThat would be great.\nWould it be OK if I took the day off tomorrow?\nWould you mind if I took this chair?",
+    "tags": [
+      "Would_Could_Should"
+    ]
+  },
+  {
+    "front": "Order",
+    "back": "can may\nCan I have the salad please?\nCan I get a glass/burger? (more casual, fast food situation)\nA bottle of the wine, please.\nCan we have the desert now?\nCan we see the wine list?\nCan I have a fork/napkin, please?\nCan I have the check, please?\nCould we have the menu, please?\n-\n-\n-\n-\n-",
+    "tags": [
+      "Would_Could_Should"
+    ]
+  },
+  {
+    "front": "touch base",
+    "back": "Let's touch base on this tomorrow.",
+    "tags": [
+      "work"
+    ]
+  },
+  {
+    "front": "update",
+    "back": "could you give me a quick update?",
+    "tags": [
+      "work"
+    ]
+  },
+  {
+    "front": "circle",
+    "back": "I'll circle back to you after the meeting.",
+    "tags": [
+      "work"
+    ]
+  },
+  {
+    "front": "high-priority",
+    "back": "this is a high-priority task.",
+    "tags": [
+      "work"
+    ]
+  },
+  {
+    "front": "follow-up",
+    "back": "let's schedule a follow-up meeting.",
+    "tags": [
+      "work"
+    ]
+  },
+  {
+    "front": "push back",
+    "back": "can we push the deadline back a bit?",
+    "tags": [
+      "work"
+    ]
+  },
+  {
+    "front": "loop",
+    "back": "Please keep me in the loop.",
+    "tags": [
+      "work"
+    ]
+  },
+  {
+    "front": "brainstorm",
+    "back": "let's brainstorm some ideas.",
+    "tags": [
+      "work"
+    ]
+  },
+  {
+    "front": "short",
+    "back": "we are running short on time.",
+    "tags": [
+      "work"
+    ]
+  },
+  {
+    "front": "fair",
+    "back": "that's a fair point.",
+    "tags": [
+      "work"
+    ]
+  },
+  {
+    "front": "drill down",
+    "back": "let's drill down into the details.",
+    "tags": [
+      "work"
+    ]
+  },
+  {
+    "front": "align",
+    "back": "let's align on the next steps.\nI am not sure this aligns with our goals.",
+    "tags": [
+      "work"
+    ]
+  },
+  {
+    "front": "scope",
+    "back": "that's outside the scope of the project.",
+    "tags": [
+      "work"
+    ]
+  },
+  {
+    "front": "pencil",
+    "back": "I'll pencil you in for 3pm.",
+    "tags": [
+      "work"
+    ]
+  },
+  {
+    "front": "later",
+    "back": "let's move the meeting to a later time.\n-",
+    "tags": [
+      "work"
+    ]
+  }
+]
