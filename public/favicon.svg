@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
   <!-- Back card (offset down-right) -->
-  <rect x="9" y="12" width="18" height="15.6" rx="2.5" fill="#a78bfa"/>
+  <rect x="9" y="9.7" width="18" height="15.6" rx="2.5" fill="#a78bfa"/>
   <!-- Front card (offset up-left) -->
-  <rect x="5" y="9" width="18" height="15.6" rx="2.5" fill="#7c3aed"/>
+  <rect x="5" y="6.7" width="18" height="15.6" rx="2.5" fill="#7c3aed"/>
   <!-- Text lines on front card -->
-  <rect x="8" y="12" width="11" height="2" rx="1" fill="white" opacity="0.9"/>
-  <rect x="8" y="16" width="7" height="2" rx="1" fill="white" opacity="0.6"/>
+  <rect x="8" y="9.7" width="11" height="2" rx="1" fill="white" opacity="0.9"/>
+  <rect x="8" y="13.7" width="7" height="2" rx="1" fill="white" opacity="0.6"/>
 </svg>
