@@ -547,6 +547,32 @@ body {
   margin-bottom: 8px;
 }
 
+/* ── Login screen ── */
+.login-screen {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 24px;
+}
+
+.login-screen h1 {
+  font-size: 2.4rem;
+  font-weight: 800;
+  letter-spacing: -0.02em;
+}
+
+.login-screen .btn {
+  max-width: 280px;
+}
+
+.login-error {
+  color: var(--danger);
+  font-size: 0.9rem;
+  text-align: center;
+}
+
 /* ── Responsive ── */
 @media (min-width: 600px) {
   .app { padding: 40px 24px 60px; }

@@ -4,17 +4,20 @@
 const DAY_MS = 24 * 60 * 60 * 1000;
 
 export function applyRating(card, rating) {
-  let newInterval;
+  let { interval, easeFactor } = card;
 
   switch (rating) {
     case 'again':
-      newInterval = 1;
+      interval = 1;
+      easeFactor = Math.max(1.3, easeFactor - 0.2);
       break;
     case 'hard':
-      newInterval = Math.max(1, card.interval * 1.5);
+      interval = Math.max(1, interval * 1.2);
+      easeFactor = Math.max(1.3, easeFactor - 0.15);
       break;
     case 'easy':
-      newInterval = Math.max(1, card.interval * 2.5);
+      interval = Math.max(1, interval * easeFactor);
+      easeFactor = easeFactor + 0.15;
       break;
     default:
       throw new Error(`Unknown rating: ${rating}`);
@@ -22,7 +25,8 @@ export function applyRating(card, rating) {
 
   return {
     ...card,
-    interval: newInterval,
-    nextShowTime: Date.now() + newInterval * DAY_MS,
+    interval,
+    easeFactor,
+    nextShowTime: Date.now() + interval * DAY_MS,
   };
 }
