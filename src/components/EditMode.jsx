@@ -8,6 +8,7 @@ export default function EditMode({ cards, onBack }) {
   const [editingId, setEditingId] = useState(null);
   const [editFront, setEditFront] = useState('');
   const [editBack, setEditBack] = useState('');
+  const [toast, setToast] = useState('');
 
   async function handleAdd(e) {
     e.preventDefault();
@@ -21,6 +22,8 @@ export default function EditMode({ cards, onBack }) {
     setFront('');
     setBack('');
     setError('');
+    setToast('Card added!');
+    setTimeout(() => setToast(''), 2000);
   }
 
   async function handleDelete(id) {
@@ -44,6 +47,7 @@ export default function EditMode({ cards, onBack }) {
 
   return (
     <div className="edit-mode">
+      {toast && <div className="toast">{toast}</div>}
       <div className="edit-header">
         <button className="btn-back" onClick={onBack}>← Back</button>
         <h2>Manage Cards</h2>
