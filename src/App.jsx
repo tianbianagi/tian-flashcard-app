@@ -7,6 +7,7 @@ import EditMode from './components/EditMode.jsx';
 import StudyMode from './components/StudyMode.jsx';
 
 const ALLOWED_EMAIL = 'tianbian.agi@gmail.com';
+const SESSION_LIMIT = 20;
 
 export default function App() {
   const [user, setUser] = useState(null);
@@ -44,7 +45,7 @@ export default function App() {
       const j = Math.floor(Math.random() * (i + 1));
       [queue[i], queue[j]] = [queue[j], queue[i]];
     }
-    setStudyQueue(queue);
+    setStudyQueue(queue.slice(0, SESSION_LIMIT));
     setScreen('study');
   }
 
