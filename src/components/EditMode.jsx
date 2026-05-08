@@ -9,6 +9,16 @@ export default function EditMode({ cards, onBack }) {
   const [editFront, setEditFront] = useState('');
   const [editBack, setEditBack] = useState('');
   const [toast, setToast] = useState('');
+  const [search, setSearch] = useState('');
+
+  const query = search.trim().toLowerCase();
+  const filteredCards = query
+    ? cards.filter(
+        (c) =>
+          c.front.toLowerCase().includes(query) ||
+          c.back.toLowerCase().includes(query)
+      )
+    : cards;
 
   async function handleAdd(e) {
     e.preventDefault();
@@ -78,11 +88,29 @@ export default function EditMode({ cards, onBack }) {
         </button>
       </form>
 
+      <div className="card-search">
+        <input
+          type="search"
+          value={search}
+          onChange={(e) => setSearch(e.target.value)}
+          placeholder="Search cards…"
+          aria-label="Search cards"
+        />
+        {query && (
+          <span className="card-search-count">
+            {filteredCards.length} of {cards.length}
+          </span>
+        )}
+      </div>
+
       <div className="card-list">
         {cards.length === 0 && (
           <p className="empty-list">No cards yet. Add one above!</p>
         )}
-        {cards.map((card) =>
+        {cards.length > 0 && filteredCards.length === 0 && (
+          <p className="empty-list">No cards match “{search.trim()}”.</p>
+        )}
+        {filteredCards.map((card) =>
           editingId === card.id ? (
             <div key={card.id} className="card-list-item card-list-item--editing">
               <div className="card-edit-fields">
